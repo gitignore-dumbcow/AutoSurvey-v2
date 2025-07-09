@@ -1,0 +1,434 @@
+{
+  "questions": [
+    {
+      "id": "s0",
+      "type": "text",
+      "title": "S0.",
+      "description": "Thông tin",
+      "tip": "Không ghi phần T--",
+      "fields": {
+        "information": {
+          "title": "Mã số BCH",
+          "next": "s1"
+        }
+      },
+      "next": "s1"
+    },
+    {
+      "id": "s1",
+      "type": "text",
+      "title": "S1. Ghi nhận mã cửa hàng/đại lý",
+      "description": "",
+      "tip": "",
+      "fields": {
+        "database": {
+          "title": "Database head Honda",
+          "next": "s2"
+        }
+      },
+      "next": "s2"
+    },
+    {
+      "id": "s2",
+      "type": "number_code",
+      "title": "S2. Không hỏi - PVV",
+      "description": "Ghi nhận giới tính theo giọng nói/cách xưng hô của đáp viên hoặc theo thông tin từ danh sách",
+      "tip": "",
+      "options": {
+        "1": { "title": "Nam", "next": "s3" },
+        "2": { "title": "Nữ", "next": "s3" }
+      },
+      "next": "s3"
+    },
+    {
+      "id": "s3",
+      "type": "number_code",
+      "title": "S3.",
+      "description": "Chào anh/chị, xin lỗi cho em hỏi đây có phải là số điện thoại của anh/chị [Tên đáp viên] không ạ?",
+      "tip": "",
+      "options": {
+        "1": { "title": "Đúng", "next": "s4" },
+        "2": { "title": "Sai tên người trả lời điện thoại", "next": "s2.1" },
+        "3": { "title": "SDT không tồn tại/ Không có thức", "next": "fail" },
+        "4": { "title": "Sai tên người mua xe", "next": "fail" },
+        "5": { "title": "SDT tắt máy/ Báo bận/ Không trả lời", "next": "fail" },
+        "6": { "title": "Từ chối cuộc gọi (đã gọi lại 3 lần)", "next": "fail" },
+        "0": { "title": "Không thể phỏng vấn", "next": "s2.2" }
+
+      },
+      "next": "s4"
+    },
+    {
+      "id": "s4",
+      "type": "number_code",
+      "title": "S4. Giới thiệu và xin phép phỏng vấn",
+      "description": "Em tên là [PVV xưng danh], nhân viên của công ty Cimigo và đại diện cho công ty Honda Việt Nam liên lạc với anh/chị về để tìm hiểu về sự hài lòng của anh/chị trong lần mua xe tại cửa hàng Honda Ủy nhiệm [Tên cửa hàng].\n\nNhững đánh giá và chia sẻ của anh/chị sẽ giúp hãng và đại lý nâng cao chất lượng dịch vụ và phục vụ anh/chị ngày một tốt hơn. Xin phép được phỏng vấn anh chị khoảng 5 phút được không ạ?",
+      "tip": "",
+      "options": {
+        "1": { "title": "Đồng ý", "next": "s5" },
+        "2": { "title": "Không đồng ý", "next": "fail" }
+      },
+      "next": "s5"
+
+    },
+    {
+      "id": "s5",
+      "type": "number_code",
+      "title": "S5.",
+      "description": "Bài khảo sát này sẽ được ghi âm nhằm đánh giá và cải thiện chất lượng dịch vụ. Nội dung các câu trả lời của anh/chị chỉ được dùng cho mục đích nghiên cứu\n\nThông tin mà anh/chị cung cấp hoàn toàn được bảo mật. Anh chị có đồng ý tham gia khảo sát này không ạ?",
+      "tip": "",
+      "options": {
+        "1": { "title": "Đồng ý", "next": "s6" },
+        "2": { "title": "Không đồng ý", "next": "fail" }
+      },
+      "next": "s6"
+
+    },
+    {
+      "id": "s6",
+      "type": "number_code",
+      "title": "S6.",
+      "description": "Có phải trong 3 tháng gần đây, anh/chị đã mua xe hoặc tham gia vào quá trình mua xe tại cửa hàng chính hãng Honda [Tên cửa hàng ở S1] phải không ạ?",
+      "tip": "",
+      "options": {
+        "1": { "title": "Có", "next": "s7" },
+        "2": { "title": "Không", "next": "fail" }
+      },
+      "next": "s7"
+
+    },
+    {
+      "id": "s7",
+      "type": "number_code",
+      "title": "S7.",
+      "description": "Vui lòng cho em biết loại xe anh/chị đã mua tại Head có phải là xe [Tên loại xe] không ạ?",
+      "tip": "Lưu ý: Nếu đáp viên có tự đề cập nhãn hiệu xe ở các câu trước, PVV không cần hỏi lại mà chỉ xác nhận\nPVV đối chiếu thông tin của đáp viên với thông tin trên danh sách",
+      "options": {
+        "1": { "title": "Đúng", "next": "s8" },
+        "2": { "title": "Khác", "next": "fail" }
+      },
+      "next": "s8"
+
+    },
+    {
+      "id": "s8",
+      "type": "number_code",
+      "title": "S8.",
+      "description": "Vui lòng cho em biết anh/chị đang sống ở tỉnh thành phố nào ạ?",
+      "tip": "",
+      "options": {
+        "1": { "title": "Đúng thông tin trên hệ thống", "next": "q0" },
+        "2": { "title": "Khác thông tin trên hệ thống", "next": "fail" }, 
+        "3": { "title": "Không có thông tin trên hệ thông", "next": "fail" }
+      },
+      "next": "q0"
+    },
+    {
+      "id": "q0",
+      "type": "prompt",
+      "title": "PVV đọc lên:",
+      "description": "Sau đây em xin phép được hỏi một số câu hỏi liên quan đến lần mua xe [Mẫu xe] của anh/chị ở cửa hàng xe máy Honda [Tên Head ở s1].",
+      "tip": "",
+      "next": "q1"
+    },
+    {
+      "id": "q1",
+      "type": "score",
+      "title": "Q1.",
+      "description": "Dựa trên toàn bộ trải nghiệm mua và nhận xe, anh/chị vui lòng cho biết mức độ hài lòng tổng thể của mình đối với cửa hàng.\nSử dụng thang điểm 10 bắt 1 là Hoàn toàn không hài lòng tăng dần đến 10 là Hoàn toàn hài lòng\nAnh/chị cho mấy điểm ạ?",
+      "tip": "",
+      "options": {
+        "1": {"next": "q2" },
+        "2": {"next": "q2" }, 
+        "3": {"next": "q2" },
+        "4": {"next": "q2" },
+        "5": {"next": "q2" }, 
+        "6": {"next": "q2" },
+        "7": {"next": "q2" },
+        "8": {"next": "q2" }, 
+        "9": {"next": "q2" },
+        "10": {"next": "q2" }
+      },
+      "next": "q2"
+    },
+    {
+      "id": "q2",
+      "type": "text",
+      "title": "q2. Ghi nhận mã cửa hàng/đại lý",
+      "description": "",
+      "tip": "",
+      "fields": {
+        "satisfied": {
+          "title": "Hài lòng",
+          "next": "unsatisfied"
+        },
+        "unsatisfied": {
+          "title": "Không hài lòng",
+          "next": "q3"
+        }
+        
+      },
+      "next": "q3"
+    },
+    {
+      "id": "q3",
+      "type": "score",
+      "title": "Q3.",
+      "description": "Dựa vào trải nghiệm mua xe của mình tại cửa hàng này, trong tương lai nếu bạn bè người thân có nhu cầu mua xe, mức độ anh/chị sẽ giới thiệu cửa hàng này cho họ là như thế nào?\n\nSử dụng tham điểm từ 0 đến 10 với 0 là Chắc chắn sẽ không giới thiệu tăng dần đến 10 là chắc chắn sẽ giới thiệu\n\nAnh/chị cho mấy điểm ạ",
+      "tip": "",
+      "options": {
+        "1": {"next": "q4" },
+        "2": {"next": "q4" }, 
+        "3": {"next": "q4" },
+        "4": {"next": "q4" },
+        "5": {"next": "q4" }, 
+        "6": {"next": "q4" },
+        "7": {"next": "q4" },
+        "8": {"next": "q4" }, 
+        "9": {"next": "q4" },
+        "10": {"next": "q4" }
+      },
+      "next": "q4"
+    },
+    {
+      "id": "q4",
+      "type": "score",
+      "title": "Q4.",
+      "description": "Cũng sử dụng tham điểm từ 1 đến 10 như trên. Về mặt chất lượng của phòng trưng bày của cửa hàng, ví dụ như cơ sở vật chất, sự sạch sẽ, tiện lợi, ngăn nắp, anh/chị hài lòng như thế nào ạ?",
+      "tip": "",
+      "options": {
+        "1": {"next": "q5" },
+        "2": {"next": "q5" }, 
+        "3": {"next": "q5" },
+        "4": {"next": "q5" },
+        "5": {"next": "q5" }, 
+        "6": {"next": "q5" },
+        "7": {"next": "q5" },
+        "8": {"next": "q5" }, 
+        "9": {"next": "q5" },
+        "10": {"next": "q5" }
+      },
+      "next": "q5"
+    },
+    {
+      "id": "q5",
+      "type": "number_code",
+      "title": "Q5.",
+      "description": "Khi đến cửa hàng, anh/chị có được phục vụ theo thứ tự không ạ",
+      "tip": "",
+      "options": {
+        "1": { "title": "Có", "next": "q6" },
+        "2": { "title": "Không", "next": "q6" }, 
+        "3": { "title": "Không biết/Không nhớ", "next": "q6" }
+      },
+      "next": "q6"
+    },
+    {
+      "id": "q6",
+      "type": "score",
+      "title": "Q6.",
+      "description": "Cũng sử dụng tham điểm từ 1 đến 10 như trên. Về quy trình tiếp đón của cửa hàng, mức độ hài lòng của anh/chị là như thế nào ạ?",
+      "tip": "",
+      "options": {
+        "1": {"next": "q7" },
+        "2": {"next": "q7" }, 
+        "3": {"next": "q7" },
+        "4": {"next": "q7" },
+        "5": {"next": "q7" }, 
+        "6": {"next": "q7" },
+        "7": {"next": "q7" },
+        "8": {"next": "q7" }, 
+        "9": {"next": "q7" },
+        "10": {"next": "q7" }
+      },
+      "next": "q7"
+    },
+    {
+      "id": "q7",
+      "type": "number_code",
+      "title": "Q7.",
+      "description": "Khi đến cửa hàng, nhân viên có hành động để tìm hiểu xem anh chị là khách hàng quen hay mới không ạ?",
+      "tip": "",
+      "options": {
+        "1": { "title": "Có", "next": "q8" },
+        "2": { "title": "Không", "next": "q8"} 
+      },
+      "next": "q8"
+    },
+    {
+      "id": "q8",
+      "type": "score",
+      "title": "Q8.",
+      "description": "Cũng sử dụng thang điểm từ 1 đến 10. Về quá trình nhân viên bán hàng tư vấn sản phẩm, mức độ hài lòng của anh/chị như thế nào ạ?",
+      "tip": "",
+      "options": {
+        "1": {"next": "q9" },
+        "2": {"next": "q9" }, 
+        "3": {"next": "q9" },
+        "4": {"next": "q9" },
+        "5": {"next": "q9" }, 
+        "6": {"next": "q9" },
+        "7": {"next": "q9" },
+        "8": {"next": "q9" }, 
+        "9": {"next": "q9" },
+        "10": {"next": "q9" }
+      },
+      "next": "q9"
+    },
+    {
+      "id": "q9",
+      "type": "number_code",
+      "title": "Q9.",
+      "description": "Nhân viên bán hàng có hiểu rõ nhu cầu của anh/chị không ạ?",
+      "tip": "",
+      "options": {
+        "1": { "title": "Có", "next": "q10" },
+        "2": { "title": "Không", "next": "q10"} 
+      },
+      "next": "q10"
+    },
+    {
+      "id": "q10",
+      "type": "score",
+      "title": "Q10.",
+      "description": "Cũng sử dụng thang điểm từ 1 đến 10. Mức độ hài lòng của anh/chị về sự rõ ràng, công khai trong giá bản của cửa hàng là như thế nào ạ?",
+      "tip": "",
+      "options": {
+        "1": {"next": "q11" },
+        "2": {"next": "q11" }, 
+        "3": {"next": "q11" },
+        "4": {"next": "q11" },
+        "5": {"next": "q11" }, 
+        "6": {"next": "q12" },
+        "7": {"next": "q12" },
+        "8": {"next": "q12" }, 
+        "9": {"next": "q12" },
+        "10": {"next": "q12" }
+      },
+      "next": "q11"
+    },
+    {
+      "id": "q11",
+      "type": "text",
+      "title": "Q11.",
+      "description": "Anh chị vui lòng nêu lí do vì sao anh/chị chưa hài lòng với quá trình tư vấn, giải thích giá bán của cửa hàng ạ?",
+      "tip": "Phỏng vấn viên đợi đáp viên trả lời hết ý và hỏi lại 'còn gì nữa không ạ' cho đến khi đáp viên xác định đã hết",
+      "fields": {
+        "unsatisfied": {
+          "title": "Không hài lòng",
+          "next": "q12"
+        }
+        
+      },
+      "next": "q12"
+    },
+    {
+      "id": "q12",
+      "type": "number_code",
+      "title": "Q12.",
+      "description": "Khi nhận xe, anh chị có được nhân viên hướng dẫn lái xe an toàn không ạ?",
+      "tip": "",
+      "options": {
+        "1": { "title": "Có", "next": "q13" },
+        "2": { "title": "Không", "next": "q14"} 
+      },
+      "next": "q13"
+    },
+    {
+      "id": "q13",
+      "type": "score",
+      "title": "Q13.",
+      "description": "Anh/chị thấy hướng dẫn lái xe an toàn từ nhân viên cửa hàng có hữu ích như thế nào ạ?\nSử dụng thang điểm 10 bắt đầu từ 1 là Hoàn toàn không hữ ích tăng dần đến 10 là Cực kì hữu ích\n\nAnh/chị cho mấy điểm ạ",
+      "tip": "",
+      "options": {
+        "1": {"next": "q14" },
+        "2": {"next": "q14" }, 
+        "3": {"next": "q14" },
+        "4": {"next": "q14" },
+        "5": {"next": "q14" }, 
+        "6": {"next": "q14" },
+        "7": {"next": "q14" },
+        "8": {"next": "q14" }, 
+        "9": {"next": "q14" },
+        "10": {"next": "q14" }
+      },
+      "next": "q14"
+    },
+    {
+      "id": "q14",
+      "type": "number_code",
+      "title": "Q14.",
+      "description": "Anh/chị có được giới thiệu về nhân viên dịch vụ hoặc địa chỉ và số điện thoại để liên hệ bảo dưỡng sửa chữa không ạ>",
+      "tip": "",
+      "options": {
+        "1": { "title": "Có", "next": "i0" },
+        "2": { "title": "Không", "next": "i0"},
+        "0": { "title": "Không nhớ", "next": "i0"} 
+      },
+      "next": "i0"
+    },
+    {
+      "id": "i0",
+      "type": "prompt",
+      "title": "Cảm ơn và kết thúc phỏng vấn",
+      "description": "Dạ bài phỏng vấn đến đây đã xong rồi ạ, em chúc anh/chị một ngày mới (một buổi chiều) tốt lành. Em cảm ơn anh/chị.",
+      "tip": "",
+      "next": "i1"
+    },
+    {
+      "id": "i1",
+      "type": "text",
+      "title": "Thông tin đáp viên",
+      "description": "",
+      "tip": "PVV không hỏi - Nhập lại thông tin trong danh sách",
+      "fields": {
+        "name": {
+          "title": "Họ và tên",
+          "next": "phone"
+        },
+        "phone": {
+          "title": "Số điện thoại",
+          "next": "f0"
+        }
+        
+      },
+      "next": "f0"
+    },
+    {
+      "id": "f0",
+      "type": "prompt",
+      "title": "Hoàn tất",
+      "description": "Bài khảo sát hoàn tất! Bấm Enter để lưu kết quả",
+      "tip": "",
+      "next": "success"
+    },
+    {
+      "id": "s2.1",
+      "type": "text",
+      "title": "Điều chỉnh thông tin",
+      "description": "Sai tên người trả lời điện thoại",
+      "tip": "",
+      "fields": {
+        "name": {
+          "title": "Họ và tên:",
+          "next": "s4"
+        } 
+      },
+      "next": "s4"
+    },
+    {
+      "id": "s2.2",
+      "type": "text",
+      "title": "Điều chỉnh thông tin",
+      "description": "Không thể phỏng vấn",
+      "tip": "",
+      "fields": {
+        "reason": {
+          "title": "Lý do",
+          "next": "s4"
+        }      
+      },
+      "next": "s4"
+    }
+  ]
+}

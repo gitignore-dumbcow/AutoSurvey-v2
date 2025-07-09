@@ -1,0 +1,3390 @@
+[
+  {
+    "code": "NoAnswer",
+    "label": "-- Please Select --"
+  },
+  {
+    "code": "10006",
+    "label": "1001. Nguyên Hùng #2 - 105 Kim Đồng, P. Hợp Giang - CAO BẰNG"
+  },
+  {
+    "code": "10007",
+    "label": "1002. Vinamotor Cao Bằng  - Tổ 9, P. Ngọc Xuân - CAO BẰNG"
+  },
+  {
+    "code": "10259",
+    "label": "2002. Nam Hải - Tổ 3, TT. Việt Quang - HÀ GIANG"
+  },
+  {
+    "code": "10260",
+    "label": "2003. Đức Hải - Tổ 5, TT. Vị Xuyên,  - HÀ GIANG"
+  },
+  {
+    "code": "10261",
+    "label": "2004. Linh Lực 4 - Tổ 13 P. Nguyễn Trãi, - HÀ GIANG"
+  },
+  {
+    "code": "10262",
+    "label": "3001. Tiến Thành - Lào Cai #1 - 469 Hoàng Liên, P. Kim Tân - LÀO CAI"
+  },
+  {
+    "code": "10263",
+    "label": "3002. Tiến Thành - Lào Cai #2 - Số 016-018 Cách Mạng Tháng 8, TT. Phố Lu - YÊN BÁI"
+  },
+  {
+    "code": "10264",
+    "label": "3003. Tiến Thành - Lào Cai #3 - Ngã 6 Lý Công Uẩn, P. Kim Tân - LÀO CAI"
+  },
+  {
+    "code": "10265",
+    "label": "3004. Đảng Tuyết - 283 Nguyễn Tất Thành, TT. Phố Ràng - LÀO CAI"
+  },
+  {
+    "code": "10266",
+    "label": "3005. Trung Lan - Số 082 Hoàng Liên, P. Cốc Lếu - LÀO CAI"
+  },
+  {
+    "code": "10267",
+    "label": "4001. Nam Á - Số nhà 57, tổ dân phố I, P. Nam Thanh - ĐIỆN BIÊN"
+  },
+  {
+    "code": "10268",
+    "label": "4002. Hòa An - 20 Lê Duẩn, Tổ 5, P. Tân Phong - LAI CHÂU"
+  },
+  {
+    "code": "10269",
+    "label": "4003. Linh Nam - SN 380, Tổ dân phố 7, P. Thanh Bình - ĐIỆN BIÊN"
+  },
+  {
+    "code": "10270",
+    "label": "4005. Chí Quyên - 29 Khối Tân Tiến - HÀ NỘI"
+  },
+  {
+    "code": "10271",
+    "label": "4006. Trường Thành - 570 Điện Biên Phủ, TT. Than Uyên - YÊN BÁI"
+  },
+  {
+    "code": "10272",
+    "label": "4007. Tuấn Tươi - 347 Trần Hưng Đạo, Tổ 12, P. Đoàn Kết - LAI CHÂU"
+  },
+  {
+    "code": "10273",
+    "label": "4008. Chí Quyên #2 - TDP 4 Võ Nguyên Giáp, P. Tân Thành - ĐIỆN BIÊN"
+  },
+  {
+    "code": "10274",
+    "label": "4011. Chí Quyên #3 - Số 271 Khối 7, TT. Mường Ảng - HÀ NỘI"
+  },
+  {
+    "code": "10275",
+    "label": "4809.  Hòa An #2 - Khu phố 3, TT. Sìn Hồ - LAI CHÂU"
+  },
+  {
+    "code": "10276",
+    "label": "4810.  Hòa An #3 - Tổ 32, TT. Tân Uyên - LAI CHÂU"
+  },
+  {
+    "code": "10277",
+    "label": "4812.  Linh Nam #2 - Tổ 7, TT. Mường Chà - ĐIỆN BIÊN"
+  },
+  {
+    "code": "10278",
+    "label": "5001. Hòa Bình - Yên Bái #1 - Số 16, tổ dân phố số 2, P. Nguyễn Thái Học - YÊN BÁI"
+  },
+  {
+    "code": "10279",
+    "label": "5002. Hòa Bình - Yên Bái #2 - Số 1352, tổ dân phố số 2, TT. Yên Bình - YÊN BÁI"
+  },
+  {
+    "code": "10280",
+    "label": "5004. Lục Yên - Tổ 6, TT. Yên Thế, - YÊN BÁI"
+  },
+  {
+    "code": "10281",
+    "label": "5005. Yên Thắng - Tổ dân phố 5, TT. Mậu A - YÊN BÁI"
+  },
+  {
+    "code": "10282",
+    "label": "5006. Vina Hòa Bình - Tổ 4, P. Tân An - YÊN BÁI"
+  },
+  {
+    "code": "10283",
+    "label": "6001. Tiến Thành  - 221 Tổ 1, P. Hưng Thành - TUYÊN QUANG"
+  },
+  {
+    "code": "10284",
+    "label": "6003. Chiến Long - SN 8, Đ. Quang Trung, Tổ 5, P. Tân Quang - TUYÊN QUANG"
+  },
+  {
+    "code": "10285",
+    "label": "6004. Tùng Diện - Tổ Vĩnh Tiến, TT. Vĩnh Lộc - TUYÊN QUANG"
+  },
+  {
+    "code": "10286",
+    "label": "6005. Linh Lực - TDP Tân An, TT. Tân Yên - TUYÊN QUANG"
+  },
+  {
+    "code": "10287",
+    "label": "6006. Linh Lực #2 - Số 41 Đ. Trường Chinh - TUYÊN QUANG"
+  },
+  {
+    "code": "10288",
+    "label": "6007. Linh Lực 3 - TT. Sơn Dương, - TUYÊN QUANG"
+  },
+  {
+    "code": "10289",
+    "label": "7002. Vinamotor Thái Nguyên  - 144/1, Tổ 1, Đường Dương Tự Minh, P. Quang Trung - THÁI NGUYÊN"
+  },
+  {
+    "code": "10290",
+    "label": "7003. Vinamotor Bắc Kạn - Tổ 10, P. Phùng Chí Kiên - BẮC KẠN"
+  },
+  {
+    "code": "10291",
+    "label": "7004. Vinamotor Gia Bảy  - Tổ 12, Đường Bắc Sơn, P. Hoàng Văn Thụ - THÁI NGUYÊN"
+  },
+  {
+    "code": "10292",
+    "label": "7005. Vinamotor Gang Thép  - Tổ dân phố 5, Đường tròn Gang thép,  P. Hương Sơn - THÁI NGUYÊN"
+  },
+  {
+    "code": "10293",
+    "label": "7009. Vinamotor Phú Lương - Tổ dân phố Lê Hồng Phong, TT. Đu - TUYÊN QUANG"
+  },
+  {
+    "code": "10294",
+    "label": "7011. Vinamotor Bắc Kạn #2 - Tổ 13, P. Đức Xuân,  - BẮC KẠN"
+  },
+  {
+    "code": "10295",
+    "label": "7012. Vinamotor Đại Từ - Phố Đình, TT. Hùng Sơn - THÁI NGUYÊN"
+  },
+  {
+    "code": "10296",
+    "label": "7013. Vinamotor Định Hóa - Phố Trung Tâm, TT. Chợ Chu - THÁI NGUYÊN"
+  },
+  {
+    "code": "10297",
+    "label": "7014. Vinamotor Phổ Yên - Tổ dân phố Quán Vã, P. Ba Hàng - THÁI NGUYÊN"
+  },
+  {
+    "code": "10298",
+    "label": "7015. Vinamotor Phú Bình - Tổ 2, TT. Hương Sơn - THÁI NGUYÊN"
+  },
+  {
+    "code": "10299",
+    "label": "7016. Batimex - 25 Hoàng Văn Thụ, P. Phan Đình Phùng - THÁI NGUYÊN"
+  },
+  {
+    "code": "10300",
+    "label": "8002. Vũ Hoàng Lê #2 - 02 Ngô Quyền - P. Vĩnh Trại - HÀ NỘI"
+  },
+  {
+    "code": "10301",
+    "label": "8004. Thúy Hội - Tiểu khu Lê Hồng Phong, TT. Bắc Sơn - LẠNG SƠN"
+  },
+  {
+    "code": "10302",
+    "label": "8005. Trung Dũng - Số 71 Đường Tam Thanh - P. Tam Thanh - LẠNG SƠN"
+  },
+  {
+    "code": "10303",
+    "label": "8006. Geleximco #1 - 406A Trần Đăng Ninh, P. Hoàng Văn Thụ - LẠNG SƠN"
+  },
+  {
+    "code": "10304",
+    "label": "8007. Geleximco #2 - Thôn Dốc Mới 2, xã Sơn Hà - LẠNG SƠN"
+  },
+  {
+    "code": "10305",
+    "label": "8008. Lộc Bình - Số 259, đường Cách Mạng Tháng Tám, khu Lao Động, TT. Lộc Bình - LẠNG SƠN"
+  },
+  {
+    "code": "10306",
+    "label": "9001. Phạm Tú  - Đường 25/4, Tổ 37, Khu 3, P. Bạch Đằng - HÀ NỘI"
+  },
+  {
+    "code": "10307",
+    "label": "9002. Hương Giang #1 - Số 42 Trần Phú, P. Cẩm Tây - QUẢNG NINH"
+  },
+  {
+    "code": "10308",
+    "label": "9003. Nam Dương - 38 Đường Kênh Liêm, P. Hồng Hải, - QUẢNG NINH"
+  },
+  {
+    "code": "10309",
+    "label": "9008. Thuỷ Lâm - Số 04-06 đường Bạch Đằng, P. Quảng Yên - QUẢNG NINH"
+  },
+  {
+    "code": "10310",
+    "label": "9010. Vũ Thành - Khu 4, P. Đông Triều - QUẢNG NINH"
+  },
+  {
+    "code": "10311",
+    "label": "9011. Kim Liên - Đường Ngang, P. Minh Thành - QUẢNG NINH"
+  },
+  {
+    "code": "10312",
+    "label": "9012. Hạ Long - Tổ 4, Khu 10 (Đối diện BIG C), P. Hồng Hải - QUẢNG NINH"
+  },
+  {
+    "code": "10313",
+    "label": "9013. Hưng Thịnh Móng Cái - Số 3 – 4 – 5 – 6 Tiểu khu 5, Đường Hùng Vương, P. Ka Long - QUẢNG NINH"
+  },
+  {
+    "code": "10314",
+    "label": "9014. Kim Đức - TỔ 5, KHU ĐẬP NƯỚC 1, P. CẨM THỦY - QUẢNG NINH"
+  },
+  {
+    "code": "10315",
+    "label": "9015. Vinamotor Quảng Ninh  - 221-233 Trần Nhân Tông, P. Yên Thanh - QUẢNG NINH"
+  },
+  {
+    "code": "10316",
+    "label": "9016. Vinamotor Đông Triều  - 199 Vinh Quang, P. Mạo Khê - QUẢNG NINH"
+  },
+  {
+    "code": "10317",
+    "label": "10001. Trường An  - 228 Lê Lợi, p Hoàng Văn Thụ - HÀ GIANG"
+  },
+  {
+    "code": "10318",
+    "label": "10002. Việt Long #1 - 15A Nguyễn Văn Cừ, Ninh Xá - SƠN LA"
+  },
+  {
+    "code": "10319",
+    "label": "10003. Việt Long #2 - 273 Trần Phú và 5 Chợ Tre, Đông Ngàn - BẮC NINH"
+  },
+  {
+    "code": "10320",
+    "label": "10004. Ngọc Sơn - T/t TM & DV Thể Thao Nam Hồng, P. Đình Bảng,  - BẮC NINH"
+  },
+  {
+    "code": "10321",
+    "label": "10005. Vĩnh Cát - 39 Đường Lý Thái Tổ, P. Võ Cường, - BẮC NINH"
+  },
+  {
+    "code": "10322",
+    "label": "10006. Phú Liên #1 - SỐ 40 + 42 ĐƯỜNG XƯƠNG GIANG, P. TRẦN PHÚ - BẮC GIANG"
+  },
+  {
+    "code": "10323",
+    "label": "10007. Đông Ngàn - Đức Nghiêm, Ngọc Sơn , - SƠN LA"
+  },
+  {
+    "code": "10324",
+    "label": "10008. Việt Long #3 - Khu Trung tâm TM DV, TT. Gia Bình, - BẮC NINH"
+  },
+  {
+    "code": "10325",
+    "label": "10009. Trường An #2 - 38 Hùng Vương, Ngô Quyền - BẮC GIANG"
+  },
+  {
+    "code": "10326",
+    "label": "10010. Phú Liên #2 - Số 388, Phố Bình Minh, TT. Đồi Ngô - BẮC GIANG"
+  },
+  {
+    "code": "10327",
+    "label": "10012. Cao Sơn - Số 458, Phố Mới, P. Đồng Nguyên - BẮC NINH"
+  },
+  {
+    "code": "10328",
+    "label": "10013. Trung Việt - Số 110-112 Tổ dân phố Trường Trinh, TT. Chũ, - BẮC GIANG"
+  },
+  {
+    "code": "10329",
+    "label": "10014. Thiều Hòa - 260 Âu Cơ, P. Hồ, - BẮC NINH"
+  },
+  {
+    "code": "10330",
+    "label": "10015. Việt Nhật - Số 609 Đường Lê Lợi (ngã tư Minh Khai), Xã Dĩnh Kế - BẮC GIANG"
+  },
+  {
+    "code": "10331",
+    "label": "10016. Vĩnh Cát #2 - Khu 3 Ngã Tư Phường Phố Mới - LẠNG SƠN"
+  },
+  {
+    "code": "10332",
+    "label": "10017. Phú Liên #3 - Phố Vôi, TT. Vôi - BẮC GIANG"
+  },
+  {
+    "code": "10333",
+    "label": "10018. Toàn Phương - Tiểu Khu 5 TT. Neo - HÀ GIANG"
+  },
+  {
+    "code": "10334",
+    "label": "10019. Đông Nam Motor - Khu II, TT. Bích Động - BẮC GIANG"
+  },
+  {
+    "code": "10335",
+    "label": "10020. Long Tin - Tân Dân, TT. Thứa - BẮC NINH"
+  },
+  {
+    "code": "10336",
+    "label": "10021. Tiến Phát #2 - KĐT An Huy, TT. Cao Thượng - LẠNG SƠN"
+  },
+  {
+    "code": "10337",
+    "label": "11001. Vĩnh Phúc Trading - Số 4 đường Mê Linh, P. Liên Bảo, - VĨNH PHÚC"
+  },
+  {
+    "code": "10338",
+    "label": "11003. Bình Minh #1 - 2287 Hùng Vương, Nông Trang - VĨNH PHÚC"
+  },
+  {
+    "code": "10339",
+    "label": "11005. Nhung Hồng #1 - Tổ dân phố 5, P. Tiền Châu - HÀ NỘI"
+  },
+  {
+    "code": "10340",
+    "label": "11007. Bình Minh #2 - Số 57, Phố Tân Tiến, TT. Thanh Sơn - PHÚ THỌ"
+  },
+  {
+    "code": "10341",
+    "label": "11008. Bình Minh #3 - Số 433 Tân Thành, TT. Đoan Hùng  - TUYÊN QUANG"
+  },
+  {
+    "code": "10342",
+    "label": "11009. Bình Minh #4 - Khu 8, P. Phú Hộ - PHÚ THỌ"
+  },
+  {
+    "code": "10343",
+    "label": "11010. Minh Thành - TT. Lập Thạch, - VĨNH PHÚC"
+  },
+  {
+    "code": "10344",
+    "label": "11011. TSO - Khu 3, TT. Vĩnh Tường, - VĨNH PHÚC"
+  },
+  {
+    "code": "10345",
+    "label": "11012. Bình Minh #5 - Khu 8, TT. Hạ Hòa - PHÚ THỌ"
+  },
+  {
+    "code": "10346",
+    "label": "11013. Bình Minh #6 - Khu Quyết Tâm, TT. Sông Thao - PHÚ THỌ"
+  },
+  {
+    "code": "10347",
+    "label": "11014. Bình Minh #7 - 569 Phố Việt Hưng, P. Bến Gót,  - PHÚ THỌ"
+  },
+  {
+    "code": "10348",
+    "label": "11015. Nhung Hồng# 3 - Số 216 đường Hai Bà Trưng, tổ4,  - HÀ NỘI"
+  },
+  {
+    "code": "10349",
+    "label": "11016. Thành Công - KP 6, TT. Thanh Ba - ĐIỆN BIÊN"
+  },
+  {
+    "code": "10350",
+    "label": "11017. Nhung Hồng #4 - Số 416 Mê Linh, P. Khai Quang, - VĨNH PHÚC"
+  },
+  {
+    "code": "10351",
+    "label": "11018. Bình Minh #8 - Khu 5, TT Thanh Thủy - PHÚ THỌ"
+  },
+  {
+    "code": "10352",
+    "label": "11019. Khánh Linh - Thôn Đoài, TT. Yên Lạc - VĨNH PHÚC"
+  },
+  {
+    "code": "10353",
+    "label": "11020. Minh Thành #2 - Phố Me, TT. Hòa Hợp - PHÚ THỌ"
+  },
+  {
+    "code": "10354",
+    "label": "11021. Bình Minh #9 - Khu Đường Nam, TT. Phong Châu - TUYÊN QUANG"
+  },
+  {
+    "code": "10355",
+    "label": "11022. Nhung Hồng #2 - Đường Hai Bà Trưng, Phúc Thắng,  - HÀ NỘI"
+  },
+  {
+    "code": "10356",
+    "label": "11023. Kường Ngân #5 - No. 499-501-503 đường Hùng Vương, P. Đồng Tâm, - HÀ NỘI"
+  },
+  {
+    "code": "10357",
+    "label": "12001. Hùng Mạnh # 3 - 135 Chu Văn Thịnh, P. Tô Hiệu, - SƠN LA"
+  },
+  {
+    "code": "10358",
+    "label": "12002. Hùng Mạnh # 4 - Tiểu khu 4, TT. Mộc Châu, - SƠN LA"
+  },
+  {
+    "code": "10359",
+    "label": "12003. Hùng Mạnh #1 - Số Nhà 30, Tiểu Khu 20, TT. Hát Lót,  - SƠN LA"
+  },
+  {
+    "code": "10360",
+    "label": "12004. Hùng Mạnh #2 - Số 482A đường Tô Hiệu, P. Chiềng Lề - SƠN LA"
+  },
+  {
+    "code": "10361",
+    "label": "12005. Thịnh Xuyến - Tiểu khu 3, TT. Yên Châu,  - SƠN LA"
+  },
+  {
+    "code": "10362",
+    "label": "12006. Thạch Huệ - SN 95, Tiểu Khu 1, TT. Phù Yên - SƠN LA"
+  },
+  {
+    "code": "10363",
+    "label": "12007. Thịnh Xuyến #2 - Số 102-104, tổ 7, TT. Sông Mã - SƠN LA"
+  },
+  {
+    "code": "10364",
+    "label": "12008. Hùng Mạnh #5 - Tiểu Khu 3, TT. Ít Ong - SƠN LA"
+  },
+  {
+    "code": "10365",
+    "label": "12009. Hùng Mạnh #6 - Tiểu khu 10, TT Thuận Châu - SƠN LA"
+  },
+  {
+    "code": "10366",
+    "label": "12010. Hùng Mạnh #8 - Số 740, Tiểu khu Cơ Quan, TT. Nông trường Mộc Châu - SƠN LA"
+  },
+  {
+    "code": "10367",
+    "label": "13001. Dung Vượng #1 - 87 Chùa Thông, Sơn Lộc, - HÀ NỘI"
+  },
+  {
+    "code": "10368",
+    "label": "13002. Vũ Hoàng Lê #1 - 01 (Số 217 mới) và 215 Trần Phú, P. Văn Quán, - THANH HÓA"
+  },
+  {
+    "code": "10369",
+    "label": "13003. Tiến Lý #1 - Số 298 Đường 1A cũ, Phố Ga, TT. Thường Tín - HÀ NỘI"
+  },
+  {
+    "code": "10370",
+    "label": "13004. Sơn Tùng #1 - QL 32, TT. Trạm Trôi - HÀ NỘI"
+  },
+  {
+    "code": "10371",
+    "label": "13007. UIC - TT. Kim Bài, - HÀ NỘI"
+  },
+  {
+    "code": "10372",
+    "label": "13008. Khai Phát #2 - Số 64,Tổ 1, Khu Phố, TT. Xuân Mai - HÀ NỘI"
+  },
+  {
+    "code": "10373",
+    "label": "13009. Duy Miền - TT. Vân Đình, - HÀ NỘI"
+  },
+  {
+    "code": "10374",
+    "label": "13010. Matexim #3 - Tiểu Khu Mỹ Lâm, Thị trấn Phú Xuyên - HÀ NỘI"
+  },
+  {
+    "code": "10375",
+    "label": "13012. Xuân Toàn - Phố Tân Phú Mỹ, Vật Lại - HÀ NỘI"
+  },
+  {
+    "code": "10376",
+    "label": "13013. Tiến Dũng - 140 Phan Đình Phùng, TT. Phùng - HÀ NỘI"
+  },
+  {
+    "code": "10377",
+    "label": "13014. Hữu Hùng - Tổ dân phố số 6, TT. Phúc Thọ - HÀ NỘI"
+  },
+  {
+    "code": "10378",
+    "label": "13015. Xuân Điều - Thôn Tế Tiêu, TT. Đại Nghĩa - HÀ NỘI"
+  },
+  {
+    "code": "10379",
+    "label": "13017. Thanh Tâm - Số 84-TDP Phố Săn - HÀ NỘI"
+  },
+  {
+    "code": "10380",
+    "label": "13018. Dung Vượng #2 - Phố Huyện, TT. Quốc Oai - HÀ NỘI"
+  },
+  {
+    "code": "10381",
+    "label": "13019. Cường Thanh - Thôn Hòa Lạc, X. Bĩnh Yên - HÀ NỘI"
+  },
+  {
+    "code": "10382",
+    "label": "13020. Minh Thương #1 - Tổ dân phố Yên Phúc, P. Biên Giang - HÀ NỘI"
+  },
+  {
+    "code": "10383",
+    "label": "13021. Minh Thương #2 - 300 Quang Trung,  - HÀ NỘI"
+  },
+  {
+    "code": "10384",
+    "label": "14002. Thương Mại 98 - Số 20 ngõ 390 phố Tố Hữu, P. Trung Văn,  - HÀ NỘI"
+  },
+  {
+    "code": "10385",
+    "label": "14003. Hồng Hạnh - 252 và 256 Phố Huế, - HÀ NỘI"
+  },
+  {
+    "code": "10386",
+    "label": "14006. T & H - K1, Thành Công, Láng Hạ, - HÀ NỘI"
+  },
+  {
+    "code": "10387",
+    "label": "14011. Matexim #1 - 251 đường Nguyễn Trãi, Thanh Xuân Trung - HÀ NỘI"
+  },
+  {
+    "code": "10388",
+    "label": "14014. Hà Nội Motor - Tổ Bình Minh, TT. Trâu Quỳ, - HÀ NỘI"
+  },
+  {
+    "code": "10389",
+    "label": "14015. Vitan - Số 5 Nguyễn Khánh Toàn, P. Quan Hoa - HÀ NỘI"
+  },
+  {
+    "code": "10390",
+    "label": "14017. VAC #1 - 171 Xuân Thủy - HÀ NỘI"
+  },
+  {
+    "code": "10391",
+    "label": "14023. Phương Hà #1 - 508 Hà Huy Tập, TT. Yên Viên - BẮC NINH"
+  },
+  {
+    "code": "10392",
+    "label": "14024. Phương Hà #3 - 285-295 Minh Khai, Vĩnh Tuy - HÀ NỘI"
+  },
+  {
+    "code": "10393",
+    "label": "14025. Nguyên Hùng #1 - 539 Giải Phóng và 82-84 Tương Mai - QUẢNG NGÃI"
+  },
+  {
+    "code": "10394",
+    "label": "14027. Hùng Chung Nghĩa #2 - 334 Bà Triệu, - QUẢNG NINH"
+  },
+  {
+    "code": "10395",
+    "label": "14030. Hải Dương - 182 Xã Đàn, Đống Đa, Hà Nội - HÀ NỘI"
+  },
+  {
+    "code": "10396",
+    "label": "14032. Thành Đạt - Km 6 Quốc lộ 2, Xã Phú Cường, - HÀ NỘI"
+  },
+  {
+    "code": "10397",
+    "label": "14035. Trung Nghĩa - 725 đường Nguyễn Hoàng Tôn, P.  Xuân Đỉnh, - HÀ NỘI"
+  },
+  {
+    "code": "10398",
+    "label": "14039. Minh Hiên - Số 661, Ngọc Hồi - 0"
+  },
+  {
+    "code": "10399",
+    "label": "14040. Mùa Xuân - Khu trung tâm, TT. Sóc Sơn - HÀ NỘI"
+  },
+  {
+    "code": "10400",
+    "label": "14041. Kường Ngân #1 - 50 Trần Nhân Tông, P. Nguyễn Du - HÀ NỘI"
+  },
+  {
+    "code": "10401",
+    "label": "14042. Kường Ngân #2 - 115 Nguyễn Lương Bằng, P. Nam Đồng - HÀ NỘI"
+  },
+  {
+    "code": "10402",
+    "label": "14043. Doanh Thu - Số 136 Phạm Văn Đồng, P. Mai Dịch - HÀ NỘI"
+  },
+  {
+    "code": "10403",
+    "label": "14044. Thắng Lợi #3 - 545 Nguyễn Văn Cừ - HÀ NỘI"
+  },
+  {
+    "code": "10404",
+    "label": "14045. Minh Hiên #2 - Số 2, Cầu Tó, Thanh Liệt - HÀ NỘI"
+  },
+  {
+    "code": "10405",
+    "label": "14046. Phương Hà #4 - Số 2 Lê Văn Lương, P. Trung Hòa - HÒA BÌNH"
+  },
+  {
+    "code": "10406",
+    "label": "14048. Hồng Hạnh #2 - Số 7 đường Âu cơ, P. Quảng An - BẮC GIANG"
+  },
+  {
+    "code": "10407",
+    "label": "14049. Hằng Anh - 253-255 Nguyễn Văn Linh, P. Phúc Đồng - HÀ NỘI"
+  },
+  {
+    "code": "10408",
+    "label": "14051. Doanh Thu #2 - Số 101 A2, Nguyễn Khánh Toàn, P. Quan Hoa - HÀ NỘI"
+  },
+  {
+    "code": "10409",
+    "label": "14052. Nam Anh - Kwaitexco - Tầng 1, Nhà A, Làng Sinh viên Hacinco, Nhân Chính - HÀ NỘI"
+  },
+  {
+    "code": "10410",
+    "label": "14054. Hùng Mạnh 7 - 319 Nguyễn Văn Cừ, P. Ngọc Lâm, - HÀ NỘI"
+  },
+  {
+    "code": "10411",
+    "label": "14055. Khánh Linh 2 - Thôn Nội Đồng, xã Đại Thịnh - TUYÊN QUANG"
+  },
+  {
+    "code": "10412",
+    "label": "14056. Đức Trí - 83 Trường Chinh, P. Phương Liệt - TUYÊN QUANG"
+  },
+  {
+    "code": "10413",
+    "label": "14058. Thắng Lợi #1 - 25 Trần Khánh Dư - HÒA BÌNH"
+  },
+  {
+    "code": "10414",
+    "label": "14059. Thắng Lợi #2 - Tổ 7, thị xã Đông Anh, - HÀ NỘI"
+  },
+  {
+    "code": "10415",
+    "label": "14060. Kường Ngân #3 - Số 142 đường Lê Duẩn, P. Khâm Thiên - HÀ NỘI"
+  },
+  {
+    "code": "10416",
+    "label": "14061. Hồng Hạnh #3 - Số 16 + 18 Lê Đức Thọ, Mỹ Đình 2 - HÀ NỘI"
+  },
+  {
+    "code": "10417",
+    "label": "14062. Nhân Hòa - Số 18 Nguyễn Tam Trinh, P. Mai Động, - HÀ NỘI"
+  },
+  {
+    "code": "10418",
+    "label": "14063. Doanh Thu #3 - Số 118-120 Võ Chí Công, P. Xuân La - CAO BẰNG"
+  },
+  {
+    "code": "10419",
+    "label": "14064. Doanh Thu #4 -  Lô A10-NV4 ô 49+50, KĐT Lê Trọng Tấn- Gleximco, X. An Khánh - THANH HÓA"
+  },
+  {
+    "code": "10420",
+    "label": "14065. Kường Ngân #6 - Khu Rộc Hương, Thôn Nghĩa Hảo, Xã Phú Nghĩa - HÀ NỘI"
+  },
+  {
+    "code": "10421",
+    "label": "14066. Nhung Hồng #5 - QL2, Phủ Lỗ, Sóc Sơn, Hà Nội - BẮC NINH"
+  },
+  {
+    "code": "10422",
+    "label": "14067. Vũ Minh #5 - 216 Đội Cấn, P. Đội Cấn, Ba Đình, Hà Nội - LAI CHÂU"
+  },
+  {
+    "code": "10423",
+    "label": "14068. Kường Ngân #7 - Km12 Đường 32, P. Phúc Diễn - HÀ NỘI"
+  },
+  {
+    "code": "10424",
+    "label": "15001. Côn Sơn - Số 1, Nguyễn Lương Bằng, - HẢI DƯƠNG"
+  },
+  {
+    "code": "10425",
+    "label": "15002. Tiên Tiến #1 - 236 Nguyễn Lương Bằng, - HẢI DƯƠNG"
+  },
+  {
+    "code": "10426",
+    "label": "15003. Phương Hà #2 - Số 270, đường Nguyễn Văn Linh, P. An Tảo - HƯNG YÊN"
+  },
+  {
+    "code": "10427",
+    "label": "15004. Tiên Tiến #2 - 39 Nguyễn Trãi 1 - P Sao Đỏ  - HẢI DƯƠNG"
+  },
+  {
+    "code": "10428",
+    "label": "15005. Bảo Hoàng - Chợ Đường Cái, thôn Nhạc Lộc, Xã Trưng Trắc, - HƯNG YÊN"
+  },
+  {
+    "code": "10429",
+    "label": "15006. Hợp Thành #1 - Đường Lê Quý Quỳnh, P. Nhân Hòa,  - HƯNG YÊN"
+  },
+  {
+    "code": "10430",
+    "label": "15007. Tiến Cường - Số 2, TT. Như Quỳnh, - SƠN LA"
+  },
+  {
+    "code": "10431",
+    "label": "15009. Tiên Tiến #3 - 170 đường Minh Tân, P. Minh Tân - NGHỆ AN"
+  },
+  {
+    "code": "10432",
+    "label": "15010. Tiên Tiến #4 - 199 Khu đô thị phía Bắc- TT. Gia Lộc - HẢI DƯƠNG"
+  },
+  {
+    "code": "10433",
+    "label": "15012. Phúc Thanh - Số nhà 619, đường Trần Phú - SƠN LA"
+  },
+  {
+    "code": "10434",
+    "label": "15013. Hoàng Hiền  - Số 220 đường La Tiến, Trung Tâm Phố Cao, TT. Trần Cao,  - HƯNG YÊN"
+  },
+  {
+    "code": "10435",
+    "label": "15014. Tân Thu - Số 555 phố Văn Giang, TT. Văn Giang - HÀ NAM"
+  },
+  {
+    "code": "10436",
+    "label": "15015. Đức Hiệu - Số 484-486 – Đường Nguyễn Lương Bằng – TT Thanh Miện  - HẢI DƯƠNG"
+  },
+  {
+    "code": "10437",
+    "label": "15016. Ngọc Huệ - 94 Điện Biên,P. Lê Lợi - HƯNG YÊN"
+  },
+  {
+    "code": "10438",
+    "label": "15018. Kiên Hương - Ngã 5 Cầu Treo, Tân Lập - HƯNG YÊN"
+  },
+  {
+    "code": "10439",
+    "label": "15019. Giang Nhàn - 68 Phạm Ngũ Lão, TT. Kẻ Sặt - HẢI DƯƠNG"
+  },
+  {
+    "code": "10440",
+    "label": "15022. Hưng Đào - Khu 6, TT. Thanh Hà - QUẢNG NINH"
+  },
+  {
+    "code": "10441",
+    "label": "15024. Tiên Tiến #5 - Số 5 phố Tam Giang, P. Trần Hưng Đạo - HƯNG YÊN"
+  },
+  {
+    "code": "10442",
+    "label": "15025. Tiên Tiến 6 - Thôn Gạch - TT.Lai Cách - HẢI DƯƠNG"
+  },
+  {
+    "code": "10443",
+    "label": "15026. Hương Lụa - Số 296 Nguyễn Trãi 2, P. Sao Đỏ - HẢI DƯƠNG"
+  },
+  {
+    "code": "10444",
+    "label": "15027. Đại Đoàn - Số 28, phố Nguyễn Trung Ngạn, TT. Ân Thi - HƯNG YÊN"
+  },
+  {
+    "code": "10445",
+    "label": "15028. Vân Côi - Số 538 Nguyễn Văn Linh, P. Hiến Nam - HƯNG YÊN"
+  },
+  {
+    "code": "10446",
+    "label": "15029. Đức Hiệu #2 - Phố Trần Hưng Đạo, khu 3, TT. Ninh Giang - HẢI DƯƠNG"
+  },
+  {
+    "code": "10447",
+    "label": "15030. Đức Linh - 107, Phố Yết Kiêu, TT. Phú Thái - HẢI DƯƠNG"
+  },
+  {
+    "code": "10448",
+    "label": "15031. Hùng Anh - Khu La Tỉnh, TT. Tứ Kỳ - HẢI DƯƠNG"
+  },
+  {
+    "code": "10449",
+    "label": "15032. Ngọc Huệ #2 - Thôn Đồng Lý, TT. Lương Bằng - HƯNG YÊN"
+  },
+  {
+    "code": "10450",
+    "label": "15033. Hải Mơ - Quán Gỏi, Vĩnh Hưng, - HẢI DƯƠNG"
+  },
+  {
+    "code": "10451",
+    "label": "15034. Hợp Thành #2 - Thôn Yên Lịch, xã Dân Tiến, - HƯNG YÊN"
+  },
+  {
+    "code": "10452",
+    "label": "16002. Phú Hải Thành - 199 Bạch Đằng, P. Thượng Lý - HẢI PHÒNG"
+  },
+  {
+    "code": "10453",
+    "label": "16004. Hoàng Hà - 63 Hoàng Quốc Việt, - HẢI PHÒNG"
+  },
+  {
+    "code": "10454",
+    "label": "16005. Minh Hải - Số 69, Phố Mới, Thôn 1, Xã Thủy Sơn - HẢI PHÒNG"
+  },
+  {
+    "code": "10455",
+    "label": "16006. Phương Viên - Số 10/10B Lê Hồng Phong, Đằng An - HẢI PHÒNG"
+  },
+  {
+    "code": "10456",
+    "label": "16007. Quế Khoa - Số 5 + Số 6 Lô 28A Lê Hồng Phong, - HẢI PHÒNG"
+  },
+  {
+    "code": "10457",
+    "label": "16009. Hải Đăng - Số 394,396,398, Phạm Văn Đồng, xã Anh Dũng, - HẢI PHÒNG"
+  },
+  {
+    "code": "10458",
+    "label": "16011. Hương Giang #3 - Số 537, Km10 đường 5, P. Quán Toan,  - HẢI PHÒNG"
+  },
+  {
+    "code": "10459",
+    "label": "16012. Hồng Phát - Số 94 Trần Phú - P. Lương Khánh Thiện - HẢI PHÒNG"
+  },
+  {
+    "code": "10460",
+    "label": "16013. Hương Giang #4 - Số 18 Đường 351, TT.  An Dương,  - NGHỆ AN"
+  },
+  {
+    "code": "10461",
+    "label": "16014. Hồng Phát #2 - Số 114, Lạch Tray, P. Lạch Tray - HÀ GIANG"
+  },
+  {
+    "code": "10462",
+    "label": "16015. Hồng Phát #3 - Số 18 Đường 25/10, Núi Đèo - HẢI PHÒNG"
+  },
+  {
+    "code": "10463",
+    "label": "16016. Quế Khoa #2 - Khu 2, TT. Tiên Lãng - HẢI PHÒNG"
+  },
+  {
+    "code": "10464",
+    "label": "16017. Hương Giang #5 - Số 446- 450 Tô Hiệu, P. Trần Nguyên Hãn - HẢI PHÒNG"
+  },
+  {
+    "code": "10465",
+    "label": "16018. Quế Khoa #3 - Số 7, tiểu khu 1/5, TT. Vĩnh Bảo, - HẢI PHÒNG"
+  },
+  {
+    "code": "10466",
+    "label": "16019. Ngọc Phát - Số 4A, Sở Dầu, - HẢI PHÒNG"
+  },
+  {
+    "code": "10467",
+    "label": "16020. Tiến Phát - Số 1 Trần Tất Văn và Số 2 Lê Lợi, TT. An Lão - HẢI PHÒNG"
+  },
+  {
+    "code": "10468",
+    "label": "16021. Hoàng Hà # 2 - Lô 26 khu đô thị Cựu Viên, đường Lê Duẩn - HẢI PHÒNG"
+  },
+  {
+    "code": "10469",
+    "label": "16022. Quế Khoa #4 - 215 Lạch Tray, P. Đằng Giang - HẢI PHÒNG"
+  },
+  {
+    "code": "10470",
+    "label": "16023. Hồng Phát #4 - 26 Vòng Cầu Niệm, P. Nghĩa Xá - HẢI PHÒNG"
+  },
+  {
+    "code": "10471",
+    "label": "17002. Minh Đức - Lô diện tích 4872.4M2, Trình Trung Đông, An Ninh - THÁI BÌNH"
+  },
+  {
+    "code": "10472",
+    "label": "17003. Tân Hà Minh - Cụm công ngiệp Đông La, Đông La - THÁI BÌNH"
+  },
+  {
+    "code": "10473",
+    "label": "17006. Hinh Thịnh - Số nhà 108, tổ dân phố Bao Trình, TT. Diêm Điền - THÁI BÌNH"
+  },
+  {
+    "code": "10474",
+    "label": "17008. Mạnh Hùng - Số 3, Khu 3, TT. Quỳnh Côi - THÁI BÌNH"
+  },
+  {
+    "code": "10475",
+    "label": "17009. Hưng Thịnh - 359 Lý Bôn, p Đề Thám - THÁI BÌNH"
+  },
+  {
+    "code": "10476",
+    "label": "17010. Quang Huy - Số 207, Lý Thường Kiệt, P. Kỳ Bá - THÁI BÌNH"
+  },
+  {
+    "code": "10477",
+    "label": "17012. Huy Phương - Khu Nhân Cầu 1, TT. Hưng Hà - THÁI BÌNH"
+  },
+  {
+    "code": "10478",
+    "label": "17013. Hưng Thịnh #2 - Khu Minh Tân, TT. Vũ Thư - THÁI BÌNH"
+  },
+  {
+    "code": "10479",
+    "label": "17014. Quang Vinh - SN 262 đường Nguyễn Đức Cảnh, TDP 6, TT. Diêm Điền - THÁI BÌNH"
+  },
+  {
+    "code": "10480",
+    "label": "17015. Hưng Thịnh #3 - Khu 4, TT. Tiền Hải - THÁI BÌNH"
+  },
+  {
+    "code": "10481",
+    "label": "17017. Hưng Thịnh #4 - SN 908 Trần Nhân Tông, TDP Cộng Hòa, TT. Kiến Xương - THÁI BÌNH"
+  },
+  {
+    "code": "10482",
+    "label": "17018. Kường Ngân #4 - Thửa 94, Tờ bản đồ 26, Đường Võ Nguyên Giáp, P. Hoàng Diệu - THÁI BÌNH"
+  },
+  {
+    "code": "10483",
+    "label": "17019. Minh Khai #1 - Số 166 Phố Nguyễn Thị Minh Khai, P. Bồ Xuyên - THÁI BÌNH"
+  },
+  {
+    "code": "10484",
+    "label": "17020. Minh Khai #2 - Số 290 Trần Thái Tông, P. Tiền Phong - THÁI BÌNH"
+  },
+  {
+    "code": "10485",
+    "label": "17021. Huy Phương #2  - 65 Long Hưng, - HẢI PHÒNG"
+  },
+  {
+    "code": "10486",
+    "label": "18001. Naintraco # 1 - 298 Trần Hưng Đạo, - NAM ĐỊNH"
+  },
+  {
+    "code": "10487",
+    "label": "18002. Naintraco # 2 - Quốc lộ 21, P. Thanh Châu,  - HÀ NAM"
+  },
+  {
+    "code": "10488",
+    "label": "18003. Thu Thủy #1 -  210  đường Hưng Yên, P.  Quang Trung - NAM ĐỊNH"
+  },
+  {
+    "code": "10489",
+    "label": "18005. Tiến Lý #2 - 125 đường Lê Hoàn, - HÀ NAM"
+  },
+  {
+    "code": "10490",
+    "label": "18006. Thu Thủy #2 - Đường 10,  P. Lộc Vượng - NAM ĐỊNH"
+  },
+  {
+    "code": "10491",
+    "label": "18007. Tiến Lý #3 - Tổ dân phố Ninh Lão, P. Duy Minh - HÀ NAM"
+  },
+  {
+    "code": "10492",
+    "label": "18009. Vũ Hoàng Lê #3 - Tổ 3, TT. Xuân Trường, - NAM ĐỊNH"
+  },
+  {
+    "code": "10493",
+    "label": "18011. Thanh Tùng - 175 Đò Quan, P. Cửa Nam - NAM ĐỊNH"
+  },
+  {
+    "code": "10494",
+    "label": "18012. Vũ Minh - Quôc lộ 10, TT. Gôi, - NAM ĐỊNH"
+  },
+  {
+    "code": "10495",
+    "label": "18013. Thanh Thùy - Khu phố 1, TT. Vĩnh Trụ - HÀ NAM"
+  },
+  {
+    "code": "10496",
+    "label": "18014. Tiến Lý #5 - Quốc lộ 1A , đường Lê Hoàn, P. Quang Trung - HÀ NAM"
+  },
+  {
+    "code": "10497",
+    "label": "18018. Thọ Huyền - Thôn 3, Xã Thi Sơn - HÀ NAM"
+  },
+  {
+    "code": "10498",
+    "label": "18019. Vũ Hoàng Lê #4 - Tổ dân phố Sơn Thọ, TT. Ngô Đồng - NAM ĐỊNH"
+  },
+  {
+    "code": "10499",
+    "label": "18020. Việt Hương #1 - số 12, khu 1, TT. Yên Định, - NAM ĐỊNH"
+  },
+  {
+    "code": "10500",
+    "label": "18021. Việt Hương #2 - Số 82, Khu 3, TT. Cồn - NAM ĐỊNH"
+  },
+  {
+    "code": "10501",
+    "label": "18022. Vũ Minh #3 - Tổ 11, TT. Nam Giang - NAM ĐỊNH"
+  },
+  {
+    "code": "10502",
+    "label": "18023. Vũ Minh #4 - Ngã tư Phố Cháy, TT. Lâm - NAM ĐỊNH"
+  },
+  {
+    "code": "10503",
+    "label": "18024. Kiên Cường - Số 520 đường Trần Hưng Đạo, TT. Bình Mỹ - HÀ NAM"
+  },
+  {
+    "code": "10504",
+    "label": "18025. Tiến Lý #4 - Đội 7, TT. Cổ Lễ, - NAM ĐỊNH"
+  },
+  {
+    "code": "10505",
+    "label": "18026. Vũ Minh #2 - Khu 3, TT. Liễu Đề - NAM ĐỊNH"
+  },
+  {
+    "code": "10506",
+    "label": "19001. Hobitraco - Tổ 5 P. Tân Thịnh, đường cầu kéo dài, - HÒA BÌNH"
+  },
+  {
+    "code": "10507",
+    "label": "19002. Thanh Tú - Tiểu khu 13, TT. Lương Sơn, - HÒA BÌNH"
+  },
+  {
+    "code": "10508",
+    "label": "19003. Hoà Bình - Khu Mường Đầm, TT. Mãn Đức - HÒA BÌNH"
+  },
+  {
+    "code": "10509",
+    "label": "19004. Bình An - 311 Đường Cù Chính Lan, P. Đồng Tiến, - NAM ĐỊNH"
+  },
+  {
+    "code": "10510",
+    "label": "19006. Anh Kỳ Hòa Bình - Đường An Dương Vương - Tổ 6 -  P. Thái Bình - HÒA BÌNH"
+  },
+  {
+    "code": "10511",
+    "label": "19007. Anh Kỳ Hòa Bình #2 - Số 9-13 khu phố Thống Nhất, TT Vụ Bản - HÒA BÌNH"
+  },
+  {
+    "code": "10512",
+    "label": "19008. Anh Kỳ Hòa Bình #3 - Khu Thành Công, TT. Bo - HÒA BÌNH"
+  },
+  {
+    "code": "10513",
+    "label": "20002. Thanh Hải #1 - Thôn Tân Mỹ - Xã Ninh Mỹ  - NINH BÌNH"
+  },
+  {
+    "code": "10514",
+    "label": "20005. Thanh Hải #2 - Thượng Kiệm, TT. Phát Diệm, - NINH BÌNH"
+  },
+  {
+    "code": "10515",
+    "label": "20006. Thắng Luyện - SN 113, P 10, Đ. Lương Vă Thăng, P. Đông Thành - NAM ĐỊNH"
+  },
+  {
+    "code": "10516",
+    "label": "20007. Vượng Tính - Phố Mới, TT. Me - NINH BÌNH"
+  },
+  {
+    "code": "10517",
+    "label": "20008. Liên Đá - Khu Phố 4, TT. Yên Ninh - NINH BÌNH"
+  },
+  {
+    "code": "10518",
+    "label": "20009. Thanh Hải #3 - Số 1065 Trần Hưng Đạo, P. Vân Giang - NINH BÌNH"
+  },
+  {
+    "code": "10519",
+    "label": "20010. Liên Đá #2 - Phố Trung Yên, TT. Yên Thịnh - NINH BÌNH"
+  },
+  {
+    "code": "10520",
+    "label": "20011. Hoàng Quân - Phố Bắc Sơn, TT. Nho Quan - HÒA BÌNH"
+  },
+  {
+    "code": "10521",
+    "label": "20012. Khâm Huế #5 - Tổ 9, P. Trung Sơn - NINH BÌNH"
+  },
+  {
+    "code": "10522",
+    "label": "20013. Hưng Phát #9 - Lô CN-08 Khu công nghiệp Phúc Sơn, Ninh Phúc - NINH BÌNH"
+  },
+  {
+    "code": "10523",
+    "label": "20014. Thanh Lịch #1 - SN251, Phố 11,Đường Lương Văn Thăng, P. Đông  Thành - NAM ĐỊNH"
+  },
+  {
+    "code": "10524",
+    "label": "21001. Quang Trung  #1 - 197 Quang Trung, P. NgọcTrạo, - THANH HÓA"
+  },
+  {
+    "code": "10525",
+    "label": "21002. Sơn Thanh Phong #1 - 207 Nguyễn Huệ, P. Phú Sơn - THANH HÓA"
+  },
+  {
+    "code": "10526",
+    "label": "21003. Quang Trung  #2 - 749 Bà Triệu -P Trường Thi - THANH HÓA"
+  },
+  {
+    "code": "10527",
+    "label": "21004. Ngôi Sao #1 - 27-29 Đại Lộ Lê Lợi, P Lam Sơn - THANH HÓA"
+  },
+  {
+    "code": "10528",
+    "label": "21005. Đức Anh #1 - Tiểu khu 3, P. Hải Hoà - THANH HÓA"
+  },
+  {
+    "code": "10529",
+    "label": "21007. Khâm Huế #1 - Khu 6, TT. Kim Tân, - THANH HÓA"
+  },
+  {
+    "code": "10530",
+    "label": "21008. Đức Anh #2 - Khu 2, TT. Lam Sơn, - THANH HÓA"
+  },
+  {
+    "code": "10531",
+    "label": "21009. Sơn Thanh Phong # 2 - 468 Đường Nguyễn Trãi, P. Phú Sơn, - THANH HÓA"
+  },
+  {
+    "code": "10532",
+    "label": "21012. Quang Trung #3 - 235-237-239 Phố Giắt, TT. Triệu Sơn - THANH HÓA"
+  },
+  {
+    "code": "10533",
+    "label": "21013. Phương Hà  - Tiểu khu Bắc Giang và 375 Bà Triệu, TT. Nông Cống - THANH HÓA"
+  },
+  {
+    "code": "10534",
+    "label": "21014. Khâm Huế #2 - Phố Vinh Sơn, TT. Bút Sơn,  - THANH HÓA"
+  },
+  {
+    "code": "10535",
+    "label": "21015. Kim Phú - Tổ dân phố Cửa Hà, TT. Phong Sơn - THANH HÓA"
+  },
+  {
+    "code": "10536",
+    "label": "21016. Ngôi Sao #2 - Chợ Cột Đỏ, P. Trường Sơn, TT. Sầm Sơn,  - THANH HÓA"
+  },
+  {
+    "code": "10537",
+    "label": "21017. Ngôi Sao #3 - Chợ TT. Quảng Xương - THANH HÓA"
+  },
+  {
+    "code": "10538",
+    "label": "21018. Cường Nhung - Số 17 - Phố III - T.T. Cành Nàng - THANH HÓA"
+  },
+  {
+    "code": "10539",
+    "label": "21019. Khải Tài - 42 Lê Thánh Tông, T.T. Ngọc Lặc  - THANH HÓA"
+  },
+  {
+    "code": "10540",
+    "label": "21022. Luyến Đào - Số 144 Lê Hoàn, TT. Thọ Xuân - THANH HÓA"
+  },
+  {
+    "code": "10541",
+    "label": "21023. Ngôi sao #4 - Số 68 Lê Hoàn, P. Điện Biên - THANH HÓA"
+  },
+  {
+    "code": "10542",
+    "label": "21024. Khâm Huế #3 - TK Ba Đình, TT. Nga Sơn - THANH HÓA"
+  },
+  {
+    "code": "10543",
+    "label": "21026. Sơn Thanh Phong # 3 - Khu 2, TT. Thường Xuân - THANH HÓA"
+  },
+  {
+    "code": "10544",
+    "label": "21027. Khâm Huế #4 - Số 04 Đường Văn Tiến Dũng, P. Tào Xuyên - THANH HÓA"
+  },
+  {
+    "code": "10545",
+    "label": "21028. Thiệu Yên #4 - Tiểu khu 7, TT Thiệu Hóa - THANH HÓA"
+  },
+  {
+    "code": "10546",
+    "label": "21029. Thiệu Yên #3 - Khu 2, TT. Vĩnh Lộc - THANH HÓA"
+  },
+  {
+    "code": "10547",
+    "label": "21031. Hưng Phát #7 - Thôn Nổ Giáp 2, P. Nguyên Bình - THANH HÓA"
+  },
+  {
+    "code": "10548",
+    "label": "21032. Thiệu Yên - TT. Quán Lào, - THANH HÓA"
+  },
+  {
+    "code": "10549",
+    "label": "21033. Thiệu Yên #2 - Phố Kiểu, Xã Yên Trường - THANH HÓA"
+  },
+  {
+    "code": "10550",
+    "label": "21034. Khâm Huế #6 - Khu 5, TT. Hậu Lộc,  - THANH HÓA"
+  },
+  {
+    "code": "10551",
+    "label": "21035. Ngôi Sao #6 - 162 Tiểu khu 3, TT. Hà Trung, - THANH HÓA"
+  },
+  {
+    "code": "10552",
+    "label": "21830.  Ngôi Sao #5 - Sn 100,  Khu Phố 1, TT Yên Cât  - THANH HÓA"
+  },
+  {
+    "code": "10553",
+    "label": "22001. Vianimex - 45 Phan Đình Phùng, P. Cửa Nam - NGHỆ AN"
+  },
+  {
+    "code": "10554",
+    "label": "22004. Huệ Lộc #1 - Số 146 đường Nguyễn Sỹ Sách,  - NGHỆ AN"
+  },
+  {
+    "code": "10555",
+    "label": "22005. Huệ Lộc #2 - Số 4 Hà Thành, Khối 1 TT. Đô Lương - NGHỆ AN"
+  },
+  {
+    "code": "10556",
+    "label": "22006. Trường Thắng - Số 8, Khối Tân Thành, P. Hòa Hiếu - NGHỆ AN"
+  },
+  {
+    "code": "10557",
+    "label": "22010. Đức Ân - Số 5 Trần Phú,  Lê Mao - NGHỆ AN"
+  },
+  {
+    "code": "10558",
+    "label": "22012. Huy Hoàng - Khối 4, TT. Quán Hành,  - TÂY NINH"
+  },
+  {
+    "code": "10559",
+    "label": "22013. Phú Lộc - Khối Ba Hà, TT. Nam Đàn, - NGHỆ AN"
+  },
+  {
+    "code": "10560",
+    "label": "22014. Antimon - Khối 1, TT. Yên Thành, - NGHỆ AN"
+  },
+  {
+    "code": "10561",
+    "label": "22016. Ngọc Khanh - Khối 8, TT. Tân Kỳ - NGHỆ AN"
+  },
+  {
+    "code": "10562",
+    "label": "22017. Hưng Phát - Số 83 Đường Trần Phú - NGHỆ AN"
+  },
+  {
+    "code": "10563",
+    "label": "22018. Trường Thắng #2 - Khối 1, TT. Quỳ Hợp - NGHỆ AN"
+  },
+  {
+    "code": "10564",
+    "label": "22019. Văn Minh - Khối 4,  TT. Diễn Châu - NGHỆ AN"
+  },
+  {
+    "code": "10565",
+    "label": "22020. Đức Ân #2 - Số 182 Lê Duẩn, P. Bến Thủy - NGHỆ AN"
+  },
+  {
+    "code": "10566",
+    "label": "22021. Huệ Lộc #3 - Số 74 Lê Lợi, P. Hưng Bình - NGHỆ AN"
+  },
+  {
+    "code": "10567",
+    "label": "22022. Hưng Phát #2 - Số 3 Đường Nguyễn Trãi, P. Quán Bàu - SƠN LA"
+  },
+  {
+    "code": "10568",
+    "label": "22023. Hùng Vương - Khối 6, TT. Con Cuông - NGHỆ AN"
+  },
+  {
+    "code": "10569",
+    "label": "22024. Trường Thắng #3 - Khối Tây Hồ 1, P. Quang Tiến - NGHỆ AN"
+  },
+  {
+    "code": "10570",
+    "label": "22025. Tiến Nam - Số 64 Đường Đội Cung, Khối 3, TT. Đô Lương - NGHỆ AN"
+  },
+  {
+    "code": "10571",
+    "label": "22026. Phú Lộc #2 - Khối 3A, TT. Thanh Chương, - NGHỆ AN"
+  },
+  {
+    "code": "10572",
+    "label": "22027. Vinamotor Hoàng Mai - Cầu Laman, Khối Bắc Mỹ, P. Quỳnh Thiện - NGHỆ AN"
+  },
+  {
+    "code": "10573",
+    "label": "22028. Tân Phát - Tổ dân Phố 2, TT. Anh Sơn - NGHỆ AN"
+  },
+  {
+    "code": "10574",
+    "label": "22029. Hưng Phát #3 - Số 45, Quang Trung, P. Quang Trung - NGHỆ AN"
+  },
+  {
+    "code": "10575",
+    "label": "22030. Phú Lộc #3 - Số 257 Nguyễn Văn Cừ, P. Hưng Bình - NGHỆ AN"
+  },
+  {
+    "code": "10576",
+    "label": "22031. Hưng Phát #6 - Khối 6, TT. Cầu Giát,  - THANH HÓA"
+  },
+  {
+    "code": "10577",
+    "label": "22032. Hưng Phát #8 - Đường 37, Xã Quỳnh Hồng - NGHỆ AN"
+  },
+  {
+    "code": "10578",
+    "label": "22033. Vinamotor Nghệ An  - Xóm Cầu Bùng, xã Diễn Kỷ, - NGHỆ AN"
+  },
+  {
+    "code": "10579",
+    "label": "23002. Hoàng Hà - Số 171 Nguyễn Ái Quốc, P. Bắc Hồng - AN GIANG"
+  },
+  {
+    "code": "10580",
+    "label": "23003. Phú Tài Đức #1 - Số 09 Trần Phú  - HÀ TĨNH"
+  },
+  {
+    "code": "10581",
+    "label": "23005. Phú Tài Đức #2 - Số 218 - Đường mòn Hồ Chí Minh - Khối 1 - TT. Hương Khê  - HÀ TĨNH"
+  },
+  {
+    "code": "10582",
+    "label": "23006. Phú Tài Đức #3 - Số 96 Trần Phú  - HÀ TĨNH"
+  },
+  {
+    "code": "10583",
+    "label": "23010. Thiên Phú Lộc - TDP 6, TT. Phố Châu - NGHỆ AN"
+  },
+  {
+    "code": "10584",
+    "label": "23012. Phú Tài Đức #4 - Khối 7 - TT. Nghèn - HÀ TĨNH"
+  },
+  {
+    "code": "10585",
+    "label": "23014. Đức Ân #3 - TDP Giang Thủy, TT. Tiên Điền - HÀ TĨNH"
+  },
+  {
+    "code": "10586",
+    "label": "23015. Phú Tài Đức #5 - Số 181-183-185, đường Hà Huy Tập - TT. Cẩm Xuyên  - HÀ TĨNH"
+  },
+  {
+    "code": "10587",
+    "label": "23016. Bình Thủy #1 - Số 171 Hà Huy Tập, TDP 13, TT. Cẩm Xuyên, - HÀ TĨNH"
+  },
+  {
+    "code": "10588",
+    "label": "23017. Bình Thủy #2 - Sô 15-17-19 Lê Đại Hành, TDP. Châu Phố, P. Hưng Trí - HÀ TĨNH"
+  },
+  {
+    "code": "10589",
+    "label": "23018. Bình Thủy #3 - 86 Phan Đình Phùng, TP. Hà Tĩnh - HÀ TĨNH"
+  },
+  {
+    "code": "10590",
+    "label": "23019. Phú Tài Đức #6 - Số 302 Lê Đại Hành - P. Hưng Trí  - HÀ TĨNH"
+  },
+  {
+    "code": "10591",
+    "label": "23020. Ngân Hà - TDP. 5, TT. Đức Thọ - NGHỆ AN"
+  },
+  {
+    "code": "10592",
+    "label": "24001. Hiếu Hằng - 38 Quang Trung, P. Đồng Hải - QUẢNG BÌNH"
+  },
+  {
+    "code": "10593",
+    "label": "24002. Gianh Thúy - 217 Trần Hưng Đạo, TDP. 11, P. Nam Lý - QUẢNG BÌNH"
+  },
+  {
+    "code": "10594",
+    "label": "24003. Thành Ngân - 306 Lý Thường Kiệt, - QUẢNG BÌNH"
+  },
+  {
+    "code": "10595",
+    "label": "24004. Hùng Hồng - Ngã tư Quốc Lộ 1A, P. Quảng Thọ,  - QUẢNG BÌNH"
+  },
+  {
+    "code": "10596",
+    "label": "24005. Thành Ngân #2 - Tiểu khu 2 , TT. Hoàn Lão - QUẢNG BÌNH"
+  },
+  {
+    "code": "10597",
+    "label": "24006. Gianh Thúy #2 - TDP. 8, TT. Kiến Giang - QUẢNG BÌNH"
+  },
+  {
+    "code": "10598",
+    "label": "24007. Thành Ngân #3 - Tiểu khu 1, TT. Đồng Lê - QUẢNG BÌNH"
+  },
+  {
+    "code": "10599",
+    "label": "24010. Hùng Hồng #2 - Số 417-419-421, Quang Trung, P. Ba Đồn - QUẢNG BÌNH"
+  },
+  {
+    "code": "10600",
+    "label": "24011. Hưng Phát #4 - Số 87, Lý Thường Kiệt, P. Đồng Hải - QUẢNG TRỊ"
+  },
+  {
+    "code": "10601",
+    "label": "24012. Hưng Phát #5 - Số 84, Hùng Vương, TT Quán Hàu - QUẢNG BÌNH"
+  },
+  {
+    "code": "10602",
+    "label": "25001. Tân Cương - 204 Lê Duẩn, - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10603",
+    "label": "25002. Duy Tâm - Khu Phố 2, P. Đông Lưu - QUẢNG TRỊ"
+  },
+  {
+    "code": "10604",
+    "label": "25003. Hiếu Thịnh - Khóm Hữu Nghị, TT. Hồ Xá, - QUẢNG TRỊ"
+  },
+  {
+    "code": "10605",
+    "label": "25004. Bảo Cường - Số 115 Lê Duẩn, TT. Khe Sanh,  - QUẢNG TRỊ"
+  },
+  {
+    "code": "10606",
+    "label": "25005. Thảo Ái - Số 06 Bùi Thị Xuân, P. 2 - QUẢNG TRỊ"
+  },
+  {
+    "code": "10607",
+    "label": "25006. Thảo Ái #2 - Số 36 Lê Duẩn, P. 1 - QUẢNG TRỊ"
+  },
+  {
+    "code": "10608",
+    "label": "25007. Tân Cương #2 - 53-55 Hùng Vương, TT. Diên Sanh - QUẢNG TRỊ"
+  },
+  {
+    "code": "10609",
+    "label": "26001. Datraco #3 - 5 Đống Đa, - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10610",
+    "label": "26002. Huy Tuấn - 40-42 An Dương Vương, - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10611",
+    "label": "26003. Đại Nam - 208 Nguyễn Văn Linh, P. Hương Sơ - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10612",
+    "label": "26004. Lộc Thịnh  - Khu 1, quốc Lộ 1, P. Phú Bài, - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10613",
+    "label": "26005. Tân Quốc Hùng - 128 Hùng Vương, P. Phú Nhuận và 121 Hùng Vương, P. Phú Hội - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10614",
+    "label": "26006. Hồng Phú - Số 10 đường Bến Nghé, - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10615",
+    "label": "26007. Lộc Thịnh #2 - Tiểu khu 10, P. Tứ Hạ - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10616",
+    "label": "26008. Hồng Phú #2 - Số 04-06 Bà Triệu, P. Phú Hội - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10617",
+    "label": "26009. Lộc Thịnh #3 - Thôn Cao Đôi Xã, Xã Lộc Trì, TT. Phú Lộc - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10618",
+    "label": "26010. Lộc Thịnh #4 - Số 04-06, đường Phò Trạch, TT. Phong Điền - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10619",
+    "label": "27001. Datraco #1 - 18 -20 Hoàng Hoa Thám, - ĐÀ NẴNG"
+  },
+  {
+    "code": "10620",
+    "label": "27003. Hiếu Nga #2 - 168 - 170 Hùng Vương , - ĐÀ NẴNG"
+  },
+  {
+    "code": "10621",
+    "label": "27004. Cotimex - 71 Phan Chu Trinh, - ĐÀ NẴNG"
+  },
+  {
+    "code": "10622",
+    "label": "27005. Tiến Đức #1 - 316 Trần Nhân Tông - QUẢNG NAM"
+  },
+  {
+    "code": "10623",
+    "label": "27006. Quốc Tiến #1 - 97-99 Tôn Đức Thắng, - QUẢNG NAM"
+  },
+  {
+    "code": "10624",
+    "label": "27007. Tường Phát #1 - 177 và 179-181-183 Phan Châu Trinh, P. Phước Ninh - ĐÀ NẴNG"
+  },
+  {
+    "code": "10625",
+    "label": "27008. Tiến Đức #2 - QL 1A, Thôn Liễu Trì, xã Bình Nguyên, - QUẢNG NAM"
+  },
+  {
+    "code": "10626",
+    "label": "27009. Tường Phát #2 - 243 Điện Biên Phủ, - ĐÀ NẴNG"
+  },
+  {
+    "code": "10627",
+    "label": "27010. Hiếu Nga #1 - 392 Hoàng Diệu, P. Bình Thuận - ĐÀ NẴNG"
+  },
+  {
+    "code": "10628",
+    "label": "27011. Trường Đạt - 88 Hùng Vương, khu Phước Mỹ, TT. Ái Nghĩa  - QUẢNG NAM"
+  },
+  {
+    "code": "10629",
+    "label": "27012. Quốc Tiến #2 - 89-91 Phan Bội Châu - QUẢNG NAM"
+  },
+  {
+    "code": "10630",
+    "label": "27013. Trần Đình Châu - 290 Hùng Vương, TT Đông Phú - QUẢNG NAM"
+  },
+  {
+    "code": "10631",
+    "label": "27014. Trần Đình Châu #2 - 194-196 Tiểu La, TT. Hà Lam - QUẢNG NAM"
+  },
+  {
+    "code": "10632",
+    "label": "27015. Tiến Thu - Thửa đất A2, Khu Tái định cư phía Tây trường Lê Lợi, P. Mỹ An - ĐÀ NẴNG"
+  },
+  {
+    "code": "10633",
+    "label": "27016. Quốc Tiến #3 - 532 Phạm Văn Đồng, TT Núi Thành - QUẢNG NAM"
+  },
+  {
+    "code": "10634",
+    "label": "27017. Tiến Thu #2 - Lô 20-21-22, khu phố chợ Nam Phước, TT. Nam Phước - QUẢNG NAM"
+  },
+  {
+    "code": "10635",
+    "label": "27018. Trần Đình Châu #3 - Số 46-48, Đường 10 tháng 3, TT Tiên Kỳ - QUẢNG NAM"
+  },
+  {
+    "code": "10636",
+    "label": "27019. Tiến Thu #3 - 439 và 437 Hai Bà Trưng, P. Cẩm Châu - QUẢNG NAM"
+  },
+  {
+    "code": "10637",
+    "label": "27020. Tiến Thu #4 - 147 Phạm Hùng, P. Hòa Xuân - ĐÀ NẴNG"
+  },
+  {
+    "code": "10638",
+    "label": "28001. Getraco #1 - 451 Quang Trung, P. Nguyễn Nghiêm - QUẢNG NGÃI"
+  },
+  {
+    "code": "10639",
+    "label": "28002. Getraco #2 - QL1, TT. Châu Ổ, - QUẢNG NGÃI"
+  },
+  {
+    "code": "10640",
+    "label": "28004. Hoàn Phước #1 - 683-685A-685B và 760 Quang Trung, tổ 4, P. Nghĩa Chánh - QUẢNG NGÃI"
+  },
+  {
+    "code": "10641",
+    "label": "28006. Sông Trà #3 - Số 367 Nguyễn Nghiêm , P. Nguyễn Nghiêm - QUẢNG NGÃI"
+  },
+  {
+    "code": "10642",
+    "label": "28007. Sông Trà #4 - 418 Võ Nguyên Giáp- P. Trương Quang Trọng - QUẢNG NGÃI"
+  },
+  {
+    "code": "10643",
+    "label": "28008. Hoàn Phước #2 - Khu dân cư số 1, Tổ dân phố Sông Vệ, TT. Sông Vệ - QUẢNG NGÃI"
+  },
+  {
+    "code": "10644",
+    "label": "28009. Sông Trà #5 - 353 Phạm Văn Đồng, TT Chợ Chùa - QUẢNG NGÃI"
+  },
+  {
+    "code": "10645",
+    "label": "28011. Hoàn Phước #4 - 141-143 Phạm Văn Đồng, tt Châu Ổ - ĐẮK LẮK"
+  },
+  {
+    "code": "10646",
+    "label": "28012. Sông Trà  - 270 Hai Bà Trưng, P. Lê Hồng Phong - QUẢNG NGÃI"
+  },
+  {
+    "code": "10647",
+    "label": "28013. Sông Trà # 2 - 55 Quang Trung, P. Lê Hồng Phong - QUẢNG NGÃI"
+  },
+  {
+    "code": "10648",
+    "label": "28810.  Hoàn Phước #3 - Xã Đức Lân - QUẢNG NGÃI"
+  },
+  {
+    "code": "10649",
+    "label": "29001. Đại Tiến - SN 922 Phan Đình Phùng, P. Quyết Thằng - KON TUM"
+  },
+  {
+    "code": "10650",
+    "label": "29002. Thiên Ngân #1 - 630-632-634-636 Trần Phú, P. Quyết Thắng,  - KON TUM"
+  },
+  {
+    "code": "10651",
+    "label": "29003. Thiên Ngân #2 - 270 -đường Hùng Vương,TT. Dak Hà  - KON TUM"
+  },
+  {
+    "code": "10652",
+    "label": "29004. Ngọc Thy - 244A-244B-246 Phan Đình Phùng - KON TUM"
+  },
+  {
+    "code": "10653",
+    "label": "29006. Đại Tiến #2 - 388-390 Đường Hùng Vương, TT. Đak Tô - KON TUM"
+  },
+  {
+    "code": "10654",
+    "label": "30003. Viễn Thuận Phát #1 - 70 Trần Phú, TT. Bình Định, - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10655",
+    "label": "30005. Viễn Thuận Phát #2 - 393 Quang Trung, TT. Ngô Mây - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10656",
+    "label": "30006. Minh Đông - 246 Trần Phú, TT. Diêu Trì,  - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10657",
+    "label": "30007. Hữu Đức - 23B Quang Trung, TT. Phú Phong, - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10658",
+    "label": "30008. Tiến Dũng - Số 602 Đường Quang Trung, TT. Phù Mỹ - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10659",
+    "label": "30009. Hồng Phước - 03-05-07 Võ Nguyên Giáp - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10660",
+    "label": "30010. Viễn Thuận Phát #3 - 1347 Hùng Vương, P. Trần Quang Diệu - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10661",
+    "label": "30012. Viễn Thuận Phát #4 - Số 1 Nguyễn Nhạc, P. Đập Đá - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10662",
+    "label": "30013. Quốc Tú - Nguyễn Tất Thành, TT. Tăng Bạt Hổ - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10663",
+    "label": "30014. Toàn Trung #4 - 113-115-117 Hùng Vương, P. Nhơn Phú - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10664",
+    "label": "30015. Trung Hùng #1 - 290-292 Lê Hồng Phong - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10665",
+    "label": "30016. Trung Hùng #2 - Số 376-378 Quang Trung, P. Bồng Sơn, - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10666",
+    "label": "30017. Trung Hùng #3 - 236 Tây Sơn, - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10667",
+    "label": "30018. Trung Hùng #4 - 450 Quang Trung, P. Tam Quan - BÌNH ĐỊNH"
+  },
+  {
+    "code": "10668",
+    "label": "31001. Nam Long - 36 Phan Đình Phùng, - GIA LAI"
+  },
+  {
+    "code": "10669",
+    "label": "31003. Ngọc Hoa #1 - 234-236 và 240-242-244 Hùng Vương, P. Hội Thương - GIA LAI"
+  },
+  {
+    "code": "10670",
+    "label": "31004. Đức Dung #3 - 926 Hung Vuong, TT. Chư Sê, - GIA LAI"
+  },
+  {
+    "code": "10671",
+    "label": "31005. Đức Dung #1 - 15-17-19 Trần Phú, - GIA LAI"
+  },
+  {
+    "code": "10672",
+    "label": "31006. Duy Tuấn Phát - 1122 - 1124 - 1126 Quang Trung, P. An Phú, - GIA LAI"
+  },
+  {
+    "code": "10673",
+    "label": "31007. Ngoc Hoa # 2 - Số 466 Quang Trung, TT. Chư Ty - GIA LAI"
+  },
+  {
+    "code": "10674",
+    "label": "31008. Đức Dung #2 - Số 66-68 Trần Hưng Đạo, - GIA LAI"
+  },
+  {
+    "code": "10675",
+    "label": "31010. Duy Tuấn Phát #2 - 297 Quang Trung - 2 Y Wừu, Tổ 17, TT. Kbang - GIA LAI"
+  },
+  {
+    "code": "10676",
+    "label": "31011. Đức Dung #4 - 06 Võ Văn Kiệt, P. Yên Thế - GIA LAI"
+  },
+  {
+    "code": "10677",
+    "label": "31012. Lĩnh - 795 Quang Trung, TDP. 6, P. An Bình - GIA LAI"
+  },
+  {
+    "code": "10678",
+    "label": "31013. Toàn Trung - 141 - 143 Hùng Vương - TT. Chư Prông - GIA LAI"
+  },
+  {
+    "code": "10679",
+    "label": "31023. Toàn Trung #2 - 123 Trần Hưng Đạo, TT. Kon Dơng - GIA LAI"
+  },
+  {
+    "code": "10680",
+    "label": "31024. Toàn Trung #3 - Số 1 Lê Duẩn, P. Phù Đổng - GIA LAI"
+  },
+  {
+    "code": "10681",
+    "label": "31818.  Đức Dung #5 - Số 303 Hùng Vương, TT. Ia Kha - GIA LAI"
+  },
+  {
+    "code": "10682",
+    "label": "31821.  Thành Vinh #2 - Tổ 6, TT. Phú Thiện  - GIA LAI"
+  },
+  {
+    "code": "10683",
+    "label": "31822.  Thành Vinh #3  - Thôn Hòa Bình,TT. Nhơn Hòa - PHÚ YÊN"
+  },
+  {
+    "code": "10684",
+    "label": "32001. Fipexim - 4 Lê Lợi, - PHÚ YÊN"
+  },
+  {
+    "code": "10685",
+    "label": "32002. Cúc Vinh #1 - 201B-201D Lê Lợi, P5 - AN GIANG"
+  },
+  {
+    "code": "10686",
+    "label": "32003. Cúc Vinh #2 - 324-326-328 QL. 1A,TT. Chí Thạnh, - PHÚ YÊN"
+  },
+  {
+    "code": "10687",
+    "label": "32004. Dũng Tiến - 225-227-229 Trần Hưng Đạo, P. 4, - PHÚ YÊN"
+  },
+  {
+    "code": "10688",
+    "label": "32005. Dũng Tiến #2 - Khu Phố 2 - Hòa Vinh - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10689",
+    "label": "32006. Dũng Tiến #3 - Số 29 - 31 - 33 Nguyễn Huệ, P. Xuân Phú - VĨNH LONG"
+  },
+  {
+    "code": "10690",
+    "label": "32007. Dũng Tiến #4 - TT. Phú Thứ - SƠN LA"
+  },
+  {
+    "code": "10691",
+    "label": "32808.  Dũng Tiến #5 - Số 1 Lê Lợi, TT Hai Riêng - PHÚ YÊN"
+  },
+  {
+    "code": "10692",
+    "label": "33003. Matexim #2 - Số 64A Nguyễn Chí Thanh, P. Tân An, - ĐẮK LẮK"
+  },
+  {
+    "code": "10693",
+    "label": "33005. Tân Hòa Lợi - Số 90 Trương Định, P. Nghĩa Thành, - ĐẮK LẮK"
+  },
+  {
+    "code": "10694",
+    "label": "33006. Trương Hòa Lợi #1 - 171 Lê Hồng Phong, P. Tân Tiến - NGHỆ AN"
+  },
+  {
+    "code": "10695",
+    "label": "33008. Trương Hòa Lợi #2 - 39A Phan Bội Châu, P. Thắng Lợi - SƠN LA"
+  },
+  {
+    "code": "10696",
+    "label": "33009. Dương Gia Hòa - Số 32, Khối 1, TT. Đăk Mil,  - ĐẮK NÔNG"
+  },
+  {
+    "code": "10697",
+    "label": "33011. Huân Lai Hương - Số 265 Nguyễn Tất Thành, TT. Ea T-ling - ĐẮK NÔNG"
+  },
+  {
+    "code": "10698",
+    "label": "33012. Ngọc Phụng - 573-575 Giải Phóng, TT. Ea Drăng - ĐẮK LẮK"
+  },
+  {
+    "code": "10699",
+    "label": "33015. Lai Hương - 442-444-446 Lê Duẩn, P. Ea Tam - ĐẮK LẮK"
+  },
+  {
+    "code": "10700",
+    "label": "33016. Gia Bảo Long - Số 153 Nguyễn Tất Thành, TDP. 2, TT. Đắk Mâm  - ĐẮK NÔNG"
+  },
+  {
+    "code": "10701",
+    "label": "33017. Tiến Phát - TDP. 1, TT. Kiến Đức - ĐẮK NÔNG"
+  },
+  {
+    "code": "10702",
+    "label": "33018. Lai Hương#2 - Số 021, QL. 27, Thôn 2, xã Ea Ktur - ĐẮK LẮK"
+  },
+  {
+    "code": "10703",
+    "label": "33022. Lai Hương#3 - 21-23-25-27 Nguyễn Tất Thành, TDP. 1, TT. Buôn Trấp - ĐẮK LẮK"
+  },
+  {
+    "code": "10704",
+    "label": "33030. Trung Thạch #1 - TDP 3B, TT. Eakar - ĐẮK LẮK"
+  },
+  {
+    "code": "10705",
+    "label": "33031. Trung Thạch #2 - TDP. 5, TT. Krông Năng - ĐẮK LẮK"
+  },
+  {
+    "code": "10706",
+    "label": "33032. Trung Thạch#3 - TDP. 5, TT. Krông Kmar - ĐẮK LẮK"
+  },
+  {
+    "code": "10707",
+    "label": "33033. Trung Thạch#5 - Thôn 8, TT. M - Đrắk - ĐẮK LẮK"
+  },
+  {
+    "code": "10708",
+    "label": "33034. Trung Thạch#6 - Số 130 Hùng Vương, TT. Quảng Phú - ĐẮK LẮK"
+  },
+  {
+    "code": "10709",
+    "label": "33037. Tân Văn Sỹ #1 - Số 74 Nguyễn Tất Thành, P. Tự An - ĐẮK LẮK"
+  },
+  {
+    "code": "10710",
+    "label": "33038. Tân Văn Sỹ #2 - Số 469 Hùng Vương, P. An Lạc - ĐẮK LẮK"
+  },
+  {
+    "code": "10711",
+    "label": "33039. Tân Văn Sỹ #3 - Khối 6, TT. Phước An - ĐẮK LẮK"
+  },
+  {
+    "code": "10712",
+    "label": "33835.  Trung Thạch #7  - Thôn 15, xã Tân Hòa - KHÁNH HÒA"
+  },
+  {
+    "code": "10713",
+    "label": "33836.  Trung Thạch #8  - Số 245 Nguyễn Tất Thành, TT. Liên Sơn - ĐẮK NÔNG"
+  },
+  {
+    "code": "10714",
+    "label": "33840.  Tân Văn Sỹ #4 - Số 62 Hùng Vương, TT. Ea Súp - ĐẮK LẮK"
+  },
+  {
+    "code": "10715",
+    "label": "34001. Datraco #2 - 45-47 đường 23 tháng 10, P. Phương Sơn - KHÁNH HÒA"
+  },
+  {
+    "code": "10716",
+    "label": "34002. Phượng Hoàng - 26 Yersin, P. Vạn Thắng và 4 ABC Ngô Sỹ Liên, P. Phương Sài - KHÁNH HÒA"
+  },
+  {
+    "code": "10717",
+    "label": "34003. Hoàng Nhật - 125 QL. 1, P. Cam Lợi - KHÁNH HÒA"
+  },
+  {
+    "code": "10718",
+    "label": "34004. Thuận Phát - Đường 23/10, thôn Phú Ân Nam 1, xã Diên An, - KHÁNH HÒA"
+  },
+  {
+    "code": "10719",
+    "label": "34006. Phùng Phương - 190 Hùng Vương - TT. Vạn Giã - KHÁNH HÒA"
+  },
+  {
+    "code": "10720",
+    "label": "34008. Tư II - 316 A-B và 2459 đường Hùng Vương - P. Ba Ngòi - KHÁNH HÒA"
+  },
+  {
+    "code": "10721",
+    "label": "34009. Tường Nghiêm - 43C - Đường 2/4 - Vĩnh Hải - KHÁNH HÒA"
+  },
+  {
+    "code": "10722",
+    "label": "34012. Ba Đình - Quốc lộ 1A, Thôn Phú Khánh Trung, xã Diên Thạnh, - KHÁNH HÒA"
+  },
+  {
+    "code": "10723",
+    "label": "34014. Thuận Phát #2 - Số 4A, Đường 2/4, P. Vĩnh Hải - KHÁNH HÒA"
+  },
+  {
+    "code": "10724",
+    "label": "34016. Thuận Tiến Phát #1 - Số 479 - 481 - 483 Trần Qúy Cáp, P. Ninh Hiệp - ĐẮK LẮK"
+  },
+  {
+    "code": "10725",
+    "label": "34017. Thuận Tiến Phát #2 - Số 1049, 1051 Lê Hồng Phong, P. Phước Long - KHÁNH HÒA"
+  },
+  {
+    "code": "10726",
+    "label": "34018. Huy Tân #1 - 41-43 Trần Quý Cáp, P. Ninh Hiệp - KHÁNH HÒA"
+  },
+  {
+    "code": "10727",
+    "label": "34019. Huy Tân #2 - 80 Quang Trung+39 Lý Tự Trọng - KHÁNH HÒA"
+  },
+  {
+    "code": "10728",
+    "label": "34020. Huy Tân #3 - Số 14 và 22-24, Trần Quý Cáp, P. Vạn Thắng, - KHÁNH HÒA"
+  },
+  {
+    "code": "10729",
+    "label": "34021. Huy Tân #4 - Tổ dân phố Tân Hòa 1, TT. Cam Đức - KHÁNH HÒA"
+  },
+  {
+    "code": "10730",
+    "label": "35003. Đại Thành  - 260-262 Thống Nhất, P.Phủ Hà - NINH THUẬN"
+  },
+  {
+    "code": "10731",
+    "label": "35004. Phước Thịnh - 783-785-787 Đường 21/8, Phường Bảo An - NINH THUẬN"
+  },
+  {
+    "code": "10732",
+    "label": "35005. Kim Song Mã - Số 45, Đường 16 tháng 4, P. Kinh Dinh - NINH THUẬN"
+  },
+  {
+    "code": "10733",
+    "label": "35006. Kim Song Mã #2 - KP Khánh Giang, TT. Khánh Hải  - NINH THUẬN"
+  },
+  {
+    "code": "10734",
+    "label": "35007. Thảo Quân - 444 Lê Duẩn, TT. Tân Sơn - NINH THUẬN"
+  },
+  {
+    "code": "10735",
+    "label": "35008. Thiện Phát Thịnh #1 - 382, QL. 1A, KP. 4, TT. Phước Dân - NINH THUẬN"
+  },
+  {
+    "code": "10736",
+    "label": "35009. Thiện Phát Thịnh #2 - 626-628 Thống Nhất, P. Đạo Long - NINH THUẬN"
+  },
+  {
+    "code": "10737",
+    "label": "35010. Hòa Bình Minh #5 - Số 127 - 129 Đường 21 tháng 8, P. Phước Mỹ - AN GIANG"
+  },
+  {
+    "code": "10738",
+    "label": "36002. Bảo Khánh - 111 Lê Hồng Phong,  - LÂM ĐỒNG"
+  },
+  {
+    "code": "10739",
+    "label": "36003. Thắng Lợi #5 - 32 KP. Sơn Hà, TT. Đinh Văn, - LÂM ĐỒNG"
+  },
+  {
+    "code": "10740",
+    "label": "36004. Tâm Anh - 936 Hùng Vương TT. Di Linh - LÂM ĐỒNG"
+  },
+  {
+    "code": "10741",
+    "label": "36005. Ngọc Anh #1 - Số 574-576-578, QL. 20, TT. Liên Nghĩa,  - LÂM ĐỒNG"
+  },
+  {
+    "code": "10742",
+    "label": "36006. Ngọc Anh #2 - 64H và 165-167 Phan Đình Phùng, P. 2, - LÂM ĐỒNG"
+  },
+  {
+    "code": "10743",
+    "label": "36007. Tâm Anh #2 - Số 87 đường Lê Thị Pha, P. 1 - LÂM ĐỒNG"
+  },
+  {
+    "code": "10744",
+    "label": "36008. Bảo Khánh #2 - Số 169 Hùng Vương, TT. Lộc Thắng - LÂM ĐỒNG"
+  },
+  {
+    "code": "10745",
+    "label": "36009. Liên Thái - Số 234 đường 2/4, TT. Thanh Mỹ  - LÂM ĐỒNG"
+  },
+  {
+    "code": "10746",
+    "label": "36010. Tâm Anh #3 - Số 456 Trần Phú, P. 2,  - LÂM ĐỒNG"
+  },
+  {
+    "code": "10747",
+    "label": "36011. Ngọc Anh #3 - 613-615-617-619, QL. 20 TT. Liên Nghĩa - LÂM ĐỒNG"
+  },
+  {
+    "code": "10748",
+    "label": "36013. Ngọc Huệ #3 - Số 58 Hùng Vương, P.9 - LÂM ĐỒNG"
+  },
+  {
+    "code": "10749",
+    "label": "36015. Trung Phong - Số 654, TDP. Đồng Tâm, TT. Đinh Văn - KHÁNH HÒA"
+  },
+  {
+    "code": "10750",
+    "label": "36814.  Tâm Anh #4 - Số 1-2-3 TT TM, Nguyễn Đình Chiểu, Đạ Tẻh - LÂM ĐỒNG"
+  },
+  {
+    "code": "10751",
+    "label": "37001. Thuận Tiến - L83/84/85 Tôn Đức Thắng, P Xuân An - BÌNH THUẬN"
+  },
+  {
+    "code": "10752",
+    "label": "37002. Gia Hòa #1 - 431 Trần Hưng Đạo, P. Đức Thắng - BÌNH THUẬN"
+  },
+  {
+    "code": "10753",
+    "label": "37003. Gia Hòa #2 - 369 - 371 Nguyễn Tất Thành, TT. Chợ Lầu - BÌNH THUẬN"
+  },
+  {
+    "code": "10754",
+    "label": "37004. Hoà Hưng - 72 Lê Lợi, Phước Hội - BÌNH THUẬN"
+  },
+  {
+    "code": "10755",
+    "label": "37005. Ninh Đức - Số 320 - 322 đường 3/2 , KP. 9, TT. Đức Tài, - BÌNH THUẬN"
+  },
+  {
+    "code": "10756",
+    "label": "37006. Gia Hòa #3 - QL. 28, KP. 1, TT. Ma Lâm - BÌNH THUẬN"
+  },
+  {
+    "code": "10757",
+    "label": "37007. Gia Hòa #4 - Km 30, KP. Lập Hòa, TT. Thuận Nam - AN GIANG"
+  },
+  {
+    "code": "10758",
+    "label": "37008. Hưng Thịnh - Quốc lộ 1A - Khu phố Lương Tây, TT. Lương Sơn - BÌNH THUẬN"
+  },
+  {
+    "code": "10759",
+    "label": "37009. Gia Hòa #5 - 73 Đường Thống Nhất,  TT. Phan Rí Cửa - BÌNH THUẬN"
+  },
+  {
+    "code": "10760",
+    "label": "38002. ITC #3 - 949 Đường Phú Riềng Đỏ, P. Tân Thiện, - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10761",
+    "label": "38006. Tân Long Vân #2 - 5/7A Đại Lộ Bình Dương, KP. Bình Đức 2, P. Bình Hoà, - BÌNH DƯƠNG"
+  },
+  {
+    "code": "10762",
+    "label": "38009. Việt Thái Quân #1 - 53/8 QL1K, khu phố Tân Hòa, P. Đông Hòa - QUẢNG BÌNH"
+  },
+  {
+    "code": "10763",
+    "label": "38011. Song Hùng - Khu Hòa Đồng, TT. Đức Phong,  - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10764",
+    "label": "38012. Hữu Quới - 17-19-21-23, đường Độc Lập,  Khu phố 1, TT. Phước Vĩnh,  - BÌNH DƯƠNG"
+  },
+  {
+    "code": "10765",
+    "label": "38013. Hưng Phát - Quốc Lộc 13, Khu Phố Ninh Phú, TT. Lộc Ninh - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10766",
+    "label": "38014. Bình Phúc - 385-387 quốc lộ 14,  phường Tân Thiện, - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10767",
+    "label": "38015. Thủy Ngân # 2 - 16/19 Trần Hưng Đạo, Khu phố Bình Minh 1, P. Dĩ An - BÌNH DƯƠNG"
+  },
+  {
+    "code": "10768",
+    "label": "38018. Phong Phú - Số 131 Khu phố Thanh Bình, TT. Thanh Bình - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10769",
+    "label": "38021. Thủy Ngân # 3 - Kios 1, 2, 3 Cổng Chợ Tân Uyên, P. Uyên Hưng - BÌNH DƯƠNG"
+  },
+  {
+    "code": "10770",
+    "label": "38023. Trong Sáng - 740-742-744  Ðại Lộ Bình Dương, P. Hiệp Thành, - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10771",
+    "label": "38024. Hòa Bình Minh #4 - Số 68/13, Khu phố Bình Phước B, P. Bình Chuẩn - BÌNH DƯƠNG"
+  },
+  {
+    "code": "10772",
+    "label": "38025. Giáp Bình Dương - Số 81/1 đường ĐT 743, khu phố 1A, P. An Phú - BÌNH DƯƠNG"
+  },
+  {
+    "code": "10773",
+    "label": "38027. Trong Sáng #2 - Đường 746, khu phố Khánh Hòa, P. Tân Phước Khánh, - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10774",
+    "label": "38029. Dung Vượng #3 - 857 Đường Quốc lộ 14, tổ 2, khu phố Thanh Bình, P. Tân Bình - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10775",
+    "label": "38030. Hằng Anh #2 - Số 253 Quốc lộ 13, Khu phố 2, P. Mỹ Phước - KIÊN GIANG"
+  },
+  {
+    "code": "10776",
+    "label": "38031. Dung Vượng #4 - 15-16 Khu Phố Tân An, TT. Tân Phú,  - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10777",
+    "label": "38032. Giáp Bình Dương #2 - TĐS 206, TBĐS 33, Tổ 4, KP Long Bình, P. Khánh Bình - SÓC TRĂNG"
+  },
+  {
+    "code": "10778",
+    "label": "38037. Hưng Phát #2 - Tổ 6, KP 5, TT. Tân Khai - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10779",
+    "label": "38040. Hoàng Việt #5 - 355 Phú Lợi, P. Phú Lợi - BÌNH DƯƠNG"
+  },
+  {
+    "code": "10780",
+    "label": "38041. Tân Long Vân #5 - 1/98, đường 22/12, Khu phố Hòa Lân 2, P. Thuận Giao - QUẢNG BÌNH"
+  },
+  {
+    "code": "10781",
+    "label": "38042. Hồng Hạnh #4 - 54 Nguyễn Trãi, khu phố Thống Nhất 1 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10782",
+    "label": "38045. Hồng Hạnh #6 - 3/1A Đại lộ Bình Dương, Khu phố Bình Giao, P. Thuận Giao, - BÌNH DƯƠNG"
+  },
+  {
+    "code": "10783",
+    "label": "38046. Hòa Bình Minh #6 - 395 Đại lộ Bình Dương, Tổ 16, Khu 1, P. Phú Cường - AN GIANG"
+  },
+  {
+    "code": "10784",
+    "label": "38047. Ngọc Vũ -  27/12 Đường Thống Nhất , KP. 3, TT. Dầu Tiếng  - BÌNH DƯƠNG"
+  },
+  {
+    "code": "10785",
+    "label": "38048. Trung Phong #2 - Đường DT 741, KP 5, P. Long Phước - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10786",
+    "label": "38049. Trung Phong #3 - Thôn Tân Lực, Xã Bù Nho - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10787",
+    "label": "38053. Hưng Phát #3 - 106 Đường Nguyễn Huệ, P. Phú Đức - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10788",
+    "label": "38836.  Song Hùng #2 - Thôn 1, Xã Nghĩa Trung, - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10789",
+    "label": "39001. Liên Hiệp Thành #3 - 260B Phạm Văn Thuận, P. Thống Nhất,  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10790",
+    "label": "39003. Long Khánh #1 - 01 Hùng Vương, Xuân Bình, - ĐỒNG NAI"
+  },
+  {
+    "code": "10791",
+    "label": "39004. Long Khánh #2 - KM113, Quốc lộ 20,  Kp Hiệp Lợi, TT Định Quán - ĐỒNG NAI"
+  },
+  {
+    "code": "10792",
+    "label": "39006. Hòa Bình Minh #3 - B8, Khu nhà phía Bắc, QL1A, Thị Trấn Trảng Bom - ĐỒNG NAI"
+  },
+  {
+    "code": "10793",
+    "label": "39007. Hòa Bình Minh #1 - 8A đường Đồng Khởi, P. Tân Hiệp, - ĐỒNG NAI"
+  },
+  {
+    "code": "10794",
+    "label": "39008. Hà Thành #2 - 384-386 Đường Bùi Văn Hòa, KP11, P. An Bình,  - BẠC LIÊU"
+  },
+  {
+    "code": "10795",
+    "label": "39010. Quang Hiển - 33-35-37 Hùng Vương, Khu phố 4, TT. Gia Ray - ĐỒNG NAI"
+  },
+  {
+    "code": "10796",
+    "label": "39012. Hòa Bình Minh #2 - 20A/1, Khu phố 8A, Nguyễn Ái Quốc, P.Tân Biên,  - ĐỒNG NAI"
+  },
+  {
+    "code": "10797",
+    "label": "39013. Đức Anh HTT - 907 Hùng Vương, P.Xuân Hòa - ĐỒNG NAI"
+  },
+  {
+    "code": "10798",
+    "label": "39014. Trang Ninh - Số 2056, Tổ 2, Ấp Thọ Lâm 1, Xã Phú Thanh - ĐỒNG NAI"
+  },
+  {
+    "code": "10799",
+    "label": "39015. Hiền Huynh - 111-113-115-117 tỉnh lộ 767, thôn Tây Lạc, ấp An Chu, xã Bắc Sơn,  - ĐỒNG NAI"
+  },
+  {
+    "code": "10800",
+    "label": "39016. Dũng Thành Đạt - 252-253 Trần Quốc Toản, P. Bình Đa và 73/15 Phạm Văn Thuận, P. Tam Hoa - ĐỒNG NAI"
+  },
+  {
+    "code": "10801",
+    "label": "39017. Hai Cải - K5/221, tổ 3  Khu Văn Hải, Đường Lê Duẫn, TT. Long Thành - ĐỒNG NAI"
+  },
+  {
+    "code": "10802",
+    "label": "39018. Đức Tuấn - 8/2A, ấp Đông Kim, xã Gia Kiệm - BÀ RỊA - VŨNG TẦU"
+  },
+  {
+    "code": "10803",
+    "label": "39020. Quang Hiển #2 - Số 1029A, Ấp 2, Xã Xuân Hưng - ĐỒNG NAI"
+  },
+  {
+    "code": "10804",
+    "label": "39021. Xuân Đà - QL 1A,Ngã Tư Dầu Giây,Khu Phố Trần Cao Vân,TT. Dầu Giây - ĐỒNG NAI"
+  },
+  {
+    "code": "10805",
+    "label": "39022. An Quốc Thịnh - 14, 15 Ấp Bàu Cá, Xã Trung Hòa - ĐỒNG NAI"
+  },
+  {
+    "code": "10806",
+    "label": "39023. Hiền Huynh #2 - Tổ 1, KP5, TT. Vĩnh An, Huyện Vĩnh Cửu,  - ĐỒNG NAI"
+  },
+  {
+    "code": "10807",
+    "label": "39024. Đức Anh HTT #2 - Số 6, ấp 9, xã Sông Ray - ĐỒNG NAI"
+  },
+  {
+    "code": "10808",
+    "label": "39025. Kim Tuấn #1 - Số 1865,Ấp 3, Xã Suối Nho - ĐỒNG NAI"
+  },
+  {
+    "code": "10809",
+    "label": "39026. Vĩnh Lộc - C1/2 - C1/27 + 28 - Khu phố 1, P. Long Bình Tân - SÓC TRĂNG"
+  },
+  {
+    "code": "10810",
+    "label": "39027. Thiên Kim - A5-13-14-15-16-17, Khu phố chợ, khu Cầu Xéo, TT. Long Thành - ĐỒNG NAI"
+  },
+  {
+    "code": "10811",
+    "label": "39028. Ngọc Thanh - 275 Tổ 9, Ấp Bến Cam, Xã Phước Thiền - ĐỒNG NAI"
+  },
+  {
+    "code": "10812",
+    "label": "39029. Phạm Văn Hưng - Khu 5, TT. Gia Ray - ĐỒNG NAI"
+  },
+  {
+    "code": "10813",
+    "label": "39030. BIHIMEX - 259 Hà Huy Giáp, P. Quyết Thắng - ĐỒNG NAI"
+  },
+  {
+    "code": "10814",
+    "label": "40001. Hoài Minh #1 - 16 Hùng Vương, KP 1, P. Long Hoa và 17-19 hẻm 1, Đ. Nguyễn Trung Trực  - TÂY NINH"
+  },
+  {
+    "code": "10815",
+    "label": "40002. Hoài Minh #2 - Số 142, Quốc lộ 22B, Khu phố Rạch Sơn, TT. Gò Dầu, Gò Dầu - TÂY NINH"
+  },
+  {
+    "code": "10816",
+    "label": "40003. Hoàng Nam - 911 CMT8, Khu phố Hiệp Bình, Hiệp Ninh, - TÂY NINH"
+  },
+  {
+    "code": "10817",
+    "label": "40004. Anh Tuấn - Số 168, QL.22, KP. Lộc Du, p Trảng Bàng,  - TÂY NINH"
+  },
+  {
+    "code": "10818",
+    "label": "40005. Hoàng Nam #2 - Tổ 8, Đường Tôn Đức Thắng, khu phố 1 - TÂY NINH"
+  },
+  {
+    "code": "10819",
+    "label": "40006. Hòa Bình Minh TN - Số 325 Đ. Phạm Văn Đồng, KP. Hiệp Hòa, P. Hiệp Tân - TÂY NINH"
+  },
+  {
+    "code": "10820",
+    "label": "40007. Hoàng Nam #3 - Căn 7-8-9, khu phố thương mại, khu phố 2, TT. Tân Biên - TÂY NINH"
+  },
+  {
+    "code": "10821",
+    "label": "40008. Hoài Minh #3 - 511-513 Cách Mạng Tháng 8, KP. 2, P. 3, TP. Tây Ninh - TÂY NINH"
+  },
+  {
+    "code": "10822",
+    "label": "40009. Hoài Minh #4 - 1068 Hoàng Lê Kha, KP. 4, TT. Châu Thành - TÂY NINH"
+  },
+  {
+    "code": "10823",
+    "label": "41007. Nghĩa #1 - 92-94 và 220 - 222 Ba Cu, P. 1,TP.Vũng Tàu,BRVT - BÀ RỊA - VŨNG TẦU"
+  },
+  {
+    "code": "10824",
+    "label": "41008. Linh Hoàng Thịnh - 19A Quốc lộ 55, Khu phố Phước Hòa, TT Phước Bửu - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10825",
+    "label": "41009. Nghĩa #2 - Chợ Long Hải, khu phố Hải Bình, TT. Long Hải - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10826",
+    "label": "41010. Đại Hải - 120-122-124 Nguyễn Hữu Thọ, Khu phố 3, P. Phước Trung - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10827",
+    "label": "41011. Nghĩa #3 - Khu phố Mỹ Tân, P. Mỹ Xuân - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10828",
+    "label": "41012. Đại Hải #2 - 287/4 Khu phố Thạnh Sơn, TT. Phước Bửu - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10829",
+    "label": "41013. Nghĩa #4 - Khu phố Long Phượng, TT. Long Điền - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10830",
+    "label": "41016. Nghĩa #5 - Số 568 đường 30/4, P. Rạch Dừa - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10831",
+    "label": "41017. Nghĩa #6 - 267-269 Hùng Vương, TT. Ngãi Giao - ĐỒNG NAI"
+  },
+  {
+    "code": "10832",
+    "label": "41019. Lộc Ngân - 54-56-58 Bạch Đằng, P. Phước Trung - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10833",
+    "label": "41021. Gia Hòa #6 - Số 27-29, Đường 30/4, P. Thắng Nhì - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10834",
+    "label": "41022. Nam Anh #5 - KP Phước Thới, TT. Đất Đỏ - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "10835",
+    "label": "41023. Văn Hải #5 - 229 CMT8, P. Phước Hiệp - NGHỆ AN"
+  },
+  {
+    "code": "10836",
+    "label": "42001. Liên Hiệp Thành #1 - 701 và 707 Hồng Bàng; P. 6 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10837",
+    "label": "42002. Tường Nguyên #1 - 1 - 3A Đinh Bộ Lĩnh; P. 24 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10838",
+    "label": "42003. Tường Nguyên #2 - 100 M.N.O.P; Đường Hùng Vương; P. 9 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10839",
+    "label": "42004. Tường Nguyên #3 - 212B Nguyễn Trãi; P. Nguyễn Cư Trinh - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10840",
+    "label": "42006. ITC #1 - 439 Trường Chinh; P.14 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10841",
+    "label": "42008. Nam Hải - 48-48A Kinh Dương Vương - P. 12 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10842",
+    "label": "42010. Hào Quang  - 125 Phan Đăng Lưu; - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10843",
+    "label": "42012. Phát Tiến #1 - 17 Nơ Trang Long, P.7 và 46 -48 Nơ Trang Long, P. 14 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10844",
+    "label": "42013. ITC #2 - 683 Âu Cơ; P. Tân Thành; - TÂY NINH"
+  },
+  {
+    "code": "10845",
+    "label": "42014. Tifoco - 255 Lý Thường Kiệt; F.15; - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10846",
+    "label": "42015. Hodaco #1 - 342-344-346 Ba Tháng Hai;P. 12 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10847",
+    "label": "42019. Visacoop #1 - 478-480-482 và 488/5 đường Cộng Hòa; P. 13 - NGHỆ AN"
+  },
+  {
+    "code": "10848",
+    "label": "42023. OSC - 182-184 Hoàng Văn Thụ; P9 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10849",
+    "label": "42024. Phú Thành #2 - 148 Lê Văn Sỹ; P. 10 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10850",
+    "label": "42026. Dân Phương - 1C-1D Ba Tháng Hai; P. 11 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10851",
+    "label": "42029. Timexco - 701 và 719-721 Kha Vạn Cân; P. Linh Tây; - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10852",
+    "label": "42033. Đông Hà #1 - 116/4 Khu phố 6; đường Trường Chinh; P. Đông Hưng Thuận; - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10853",
+    "label": "42034. Tân Long Vân #1 - Ô X1; Cục Kỹ Thuật QK7; QL22; xã Tân Thới Nhì; - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10854",
+    "label": "42035. Phát Tiến #3 - 734-736 Cách Mạng Tháng Tám; P. 5;  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10855",
+    "label": "42036. Phát Tiến #4 - 257-259 Khánh Hội;P. 5 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10856",
+    "label": "42038. Nhứt Thành - 881 Kinh Dương Vương;khu phố 1; P. An Lạc;  - BÌNH PHƯỚC"
+  },
+  {
+    "code": "10857",
+    "label": "42039. Đông Hà #2 - 117A; đường Lê Văn Khương; P.Hiệp Thành;  - VĨNH PHÚC"
+  },
+  {
+    "code": "10858",
+    "label": "42041. Bình Minh - 638 Quốc lộ 22; Khu Phố 2; TT. Củ Chi;  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10859",
+    "label": "42042. Sơn Minh #2 - 115-117 Lê Văn Việt; P. Hiệp Phú;  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10860",
+    "label": "42043. Lai Xuân Thịnh - 198 Quốc lộ 13; P. Hiệp Bình Chánh;  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10861",
+    "label": "42044. Tân Long Vân #3 - 135 Nguyễn Sơn; P. Phú Thạnh  - BẾN TRE"
+  },
+  {
+    "code": "10862",
+    "label": "42045. Visacoop #2 - 27/6 Ấp Hưng Lân; xã Bà Điểm - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10863",
+    "label": "42047. Phát Tiến #5 - 406A Lê Trọng Tấn, P. Tây Thạnh và 391 Lê Trọng Tấn, P. Sơn Kỳ - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10864",
+    "label": "42048. Dũng Oanh - 2A Lê Văn Quới; P. Bình Hưng Hòa A;  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10865",
+    "label": "42049. Việt Thái Quân #2 - 111 Nguyễn Duy Trinh; P. Bình Trưng Tây;  - TÂY NINH"
+  },
+  {
+    "code": "10866",
+    "label": "42051. Sài Gòn Viễn Đông - 673 Huỳnh Tấn Phát; P. Tân Thuận Đông - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10867",
+    "label": "42052. Sơn Minh #1 - 276-278-280 và 290 Lý Tự Trọng; P. Bến Thành - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10868",
+    "label": "42053. Tân Long Vân # 4 - 167 Trần Quốc Thảo; P. 9 - BẾN TRE"
+  },
+  {
+    "code": "10869",
+    "label": "42055. Hoàng Việt - Số 335 Lê Đại Hành; P. 13 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10870",
+    "label": "42056. Bình Minh #2 - 234 Võ Văn Ngân; P. Bình Thọ - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10871",
+    "label": "42057. Việt Thái Quân #3 - Số 1 Quang Trung; P. 3 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10872",
+    "label": "42058. Phát Tiến #6 - 245 Xô Viết Nghệ Tĩnh; P. 17 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10873",
+    "label": "42059. Visacoop #3 - 726 Tân Kỳ Tân Qúy ,KP. 5, P. Bình Hưng Hòa - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10874",
+    "label": "42060. Sơn Minh #3 - 594 – 596 – 598 Đường Hậu Giang; P. 12 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10875",
+    "label": "42062. Hoàng Việt #2 - 631-635-639 Phạm Thế Hiển; P. 4;  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10876",
+    "label": "42063. Sài Gòn Anh Phát - 100 Hà Huy Giáp; P. Thạnh Lộc;  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10877",
+    "label": "42064. Bình Minh #3 - Số 145; tỉnh lộ 15; ấp 1; xã Tân Thạnh Tây - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10878",
+    "label": "42065. Thanh Yến Thanh - 672 Lê Quang Định; P. 1; - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10879",
+    "label": "42067. Nam Hải #2 - 340 Phạm Hùng; P. 5 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10880",
+    "label": "42068. Quang Khánh - 742-744 Trường Chinh; P. 15 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10881",
+    "label": "42069. Sơn Minh #4 - D6/6 Ấp 4; Tổ 6; Xã Bình Chánh - ĐỒNG THÁP"
+  },
+  {
+    "code": "10882",
+    "label": "42070. Visacoop #4 - 36 Đặng Thúc Vinh, xã Đông Thạch - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10883",
+    "label": "42071. Sơn Minh #5 - 113 Đỗ Xuân Hợp, Tổ 4, Khu phố 2, P. Phước Long - ĐẮK NÔNG"
+  },
+  {
+    "code": "10884",
+    "label": "42074. Visacoop #5 - A22/18-A22/18A1-A22/19 Quốc lộ 50, Ấp 1, Xã Bình Hưng - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10885",
+    "label": "42075. Visacoop #6 - D19/16C Vĩnh Lộc; Ấp 4; Xã Vĩnh Lộc B - ĐỒNG THÁP"
+  },
+  {
+    "code": "10886",
+    "label": "42077. Hoàng Việt #4 - 290/4 Dương Bá Trạc - THANH HÓA"
+  },
+  {
+    "code": "10887",
+    "label": "42078. Khánh An #3 - Số 1824A-1826; Tỉnh lộ 10; P. Tân Tạo - ĐỒNG THÁP"
+  },
+  {
+    "code": "10888",
+    "label": "42079. Dũng Tiến #6 - 04 và 18 Cộng Hòa, P. 4 - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "10889",
+    "label": "42080. Hồng Hạnh #5 - 574 QL13; P. Hiệp Bình Phước - CÀ MAU"
+  },
+  {
+    "code": "10890",
+    "label": "42081. Dũng Tiến #7 - 330 Huỳnh Tấn Phát; P. Tân Thuận Tây - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10891",
+    "label": "42084. Sài Gòn Viễn Đông #2 - 9/3C Khu phố 5, TT. Nhà Bè - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10892",
+    "label": "42085. Dũng Tiến #8 - 941 - 943 - 945A TL.10, P. Tân Tạo - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10893",
+    "label": "42086. Nam Anh #6 - Số 244 Tô Ký, Ấp Tam Đông 1, Xã Thới Tam Thôn,  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10894",
+    "label": "42087. Văn Hải #6 - 9-11E Trần Phú, P. 4 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10895",
+    "label": "42088. Ngọc Vũ #2 - 6/7 Quang Trung; P.10; - AN GIANG"
+  },
+  {
+    "code": "10896",
+    "label": "42089. Tân Kiều #4 - 1224A – 1226 - 1228 Quang Trung, P. 8 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10897",
+    "label": "43003. Phát Tiến #2 - Số 29 QL. 1A, KP. 3, TT. Bến Lức - LONG AN"
+  },
+  {
+    "code": "10898",
+    "label": "43006. Thanh Vũ   - Số 58-60 Trần Hưng Đạo, P. 1 - LONG AN"
+  },
+  {
+    "code": "10899",
+    "label": "43007. Phát Thịnh - Số 2 - Quốc lộ 50 - Khu phố 2, TT. Cần Đước - LONG AN"
+  },
+  {
+    "code": "10900",
+    "label": "43008. Khánh An - 151, 153, 155, 157 Khu B Tỉnh lộ 825, TT. Hậu Nghĩa - LONG AN"
+  },
+  {
+    "code": "10901",
+    "label": "43011. Phát Thịnh #2 - Số 54, Tỉnh lộ 835, Hòa Thuận 1, TT. Cần Giuộc - ĐỒNG THÁP"
+  },
+  {
+    "code": "10902",
+    "label": "43012. Khánh An #2 - Ấp Bình Tiền 2, xã Đức Hòa Hạ - LONG AN"
+  },
+  {
+    "code": "10903",
+    "label": "43015. Tâm Phong #1 - Số 2, Đường Nguyễn Trung Trực, P. 1 - LONG AN"
+  },
+  {
+    "code": "10904",
+    "label": "43016. Tâm Phong #2 - Số 78-80 Hùng Vương, P. 2, - GIA LAI"
+  },
+  {
+    "code": "10905",
+    "label": "43017. Tâm Phong #3 - 380 Quốc lộ 62, P. 6, - LONG AN"
+  },
+  {
+    "code": "10906",
+    "label": "43018. Đông Phương - KP. 1, TT. Tầm Vu - LONG AN"
+  },
+  {
+    "code": "10907",
+    "label": "43819. Phát Thịnh #3 - SN 494, TL 826, Ấp 4, KDC Nam Long 3, X. Long Hòa - LONG AN"
+  },
+  {
+    "code": "10908",
+    "label": "44001. Tân Tiến #1 - 21-23-25-27-29-31 Nguyễn Huệ, P. 1 - ĐỒNG THÁP"
+  },
+  {
+    "code": "10909",
+    "label": "44004. Tân Tiến #2 - 92 Quốc Lộ 30, P. Mỹ Phú, - ĐỒNG THÁP"
+  },
+  {
+    "code": "10910",
+    "label": "44005. Thanh Nhã #2 - Số 323 Quốc lộ 80, khóm Bình Thạnh 2, TT. Lấp Vò - AN GIANG"
+  },
+  {
+    "code": "10911",
+    "label": "44006. Trung Tâm #1 - Số 39, đường Lê Lợi, P. An Thạnh - ĐỒNG THÁP"
+  },
+  {
+    "code": "10912",
+    "label": "44008. Tân Tiến #3 - Đường Nguyễn Trãi, Khóm Mỹ Tây, TT Mỹ Thọ,  - ĐỒNG THÁP"
+  },
+  {
+    "code": "10913",
+    "label": "44010. Trung Tâm #3 - Số 79, Quốc lộ 30, khóm Tân Đông B, TT. Thanh Bình - ĐỒNG THÁP"
+  },
+  {
+    "code": "10914",
+    "label": "44012. Thu Vân - Quốc lộ 80, Phú Mỹ Hiệp, TT. Cái Tàu Hạ - ĐỒNG THÁP"
+  },
+  {
+    "code": "10915",
+    "label": "44013. Ba Khoái - 304C, Quốc lộ 80, ấp Bình Thạnh 1, TT. Lấp Vò - AN GIANG"
+  },
+  {
+    "code": "10916",
+    "label": "44014. An Châu Chương - Số 38, Hùng Vương, Khóm 1, P. 2 - ĐỒNG THÁP"
+  },
+  {
+    "code": "10917",
+    "label": "44015. Tân Kiều - Số 8, Đường Trần Phú, TT. Mỹ An, - ĐỒNG THÁP"
+  },
+  {
+    "code": "10918",
+    "label": "44016. Trung Tâm #2 - Số 59, Đường Nguyễn Huệ, Khóm 1, TT. Sa Rài - ĐỒNG THÁP"
+  },
+  {
+    "code": "10919",
+    "label": "44017. Tân Kiều #2 - Đường 1/5, TT. Tràm Chim - ĐỒNG THÁP"
+  },
+  {
+    "code": "10920",
+    "label": "44018. Trung Tâm 4 - Số 308, Quốc Lộ 30, P. Mỹ Phú,  - ĐỒNG THÁP"
+  },
+  {
+    "code": "10921",
+    "label": "44019. Tân Kiều #3 - Số 357, Đường 30 Tháng 4 , P. 1, - ĐỒNG THÁP"
+  },
+  {
+    "code": "10922",
+    "label": "45001. Mitexco #1 - 67-69 Lê Lợi, P. 1 - TIỀN GIANG"
+  },
+  {
+    "code": "10923",
+    "label": "45002. Mitexco #2 - 13/567QL1A, P. 5, - TIỀN GIANG"
+  },
+  {
+    "code": "10924",
+    "label": "45003. Văn Hải #1 - 138 Trương Định, KP 3, P. 2, - TIỀN GIANG"
+  },
+  {
+    "code": "10925",
+    "label": "45004. Nam Anh - 306-312 Ấp Bắc, P. 5 - TIỀN GIANG"
+  },
+  {
+    "code": "10926",
+    "label": "45005. Mitexco #3 - Quốc Lộ 1A, ấp An Thái, xã An Cư - TIỀN GIANG"
+  },
+  {
+    "code": "10927",
+    "label": "45006. Văn Hải #2 - Ô1 khu 2, TT. Chợ Gạo,  - TIỀN GIANG"
+  },
+  {
+    "code": "10928",
+    "label": "45007. Huỳnh Thành #3 - Số 11 đường Hùng Vương, P.7 - TIỀN GIANG"
+  },
+  {
+    "code": "10929",
+    "label": "45008. Nam Anh #2 - Số 18, Đường 30/4, P. 1 - TIỀN GIANG"
+  },
+  {
+    "code": "10930",
+    "label": "45009. Văn Hải #3 - Khu phố 5, TT. Vĩnh Bình - TIỀN GIANG"
+  },
+  {
+    "code": "10931",
+    "label": "45010. Nam Anh #3 - Số 4B/4 Quốc lộ 1A, Ấp Rẫy, TT. Tân Hiệp - TIỀN GIANG"
+  },
+  {
+    "code": "10932",
+    "label": "45011. Văn Hải #4 - Khu phố Dương Phú, TT Tân Hòa,  - TIỀN GIANG"
+  },
+  {
+    "code": "10933",
+    "label": "45012. Giáo Liêm - 47-47A đường Nam Kỳ Khởi Nghĩa, P. 4 - TIỀN GIANG"
+  },
+  {
+    "code": "10934",
+    "label": "45013. Nam Anh #4 - Ấp 2, Xã An Thái Trung - TIỀN GIANG"
+  },
+  {
+    "code": "10935",
+    "label": "46001. Tân Thành #1 - 67/20C đường Phó Cơ Điều, P. 4, - ĐỒNG THÁP"
+  },
+  {
+    "code": "10936",
+    "label": "46002. Tân Thành #2 - Số 160 Nguyễn Văn Thành, Tổ 1, Khóm 5, P Thành Phước - VĨNH LONG"
+  },
+  {
+    "code": "10937",
+    "label": "46003. Tân Thành #3 - Số 52  Nguyễn Huệ, P. 2, - ĐỒNG THÁP"
+  },
+  {
+    "code": "10938",
+    "label": "46004. Thành Đạt - Thửa đất số 481, tờ bản đồ số 05, Tổ 10B, Ấp Nhơn Ngãi, Xã Hiếu Phụng - TRÀ VINH"
+  },
+  {
+    "code": "10939",
+    "label": "46005. Tân Thành #4 - 42 Phạm Hùng Khóm 1, TT. Cái Nhum - VĨNH LONG"
+  },
+  {
+    "code": "10940",
+    "label": "46006. Tân Thành #5 - Số 101, Thống Chế Điều Bát,Khu 2, TT. Trà Ôn - VĨNH LONG"
+  },
+  {
+    "code": "10941",
+    "label": "46007. Tân Thành #6 - 15/13 Đường Nguyễn Thị Ngọt, TT. Tam Bình - VĨNH LONG"
+  },
+  {
+    "code": "10942",
+    "label": "47002. Huỳnh Thành #1 - 139B2 - Đại Lộ Đồng Khởi, P. Phú Khương, - BẾN TRE"
+  },
+  {
+    "code": "10943",
+    "label": "47003. Fataco #2 - 256A khu phố 2, TT. Mỏ Cày - BẾN TRE"
+  },
+  {
+    "code": "10944",
+    "label": "47005. Huỳnh Thành #2 - Số 78 ấp Bình Hòa, TT. Bình Đại - BẾN TRE"
+  },
+  {
+    "code": "10945",
+    "label": "47006. Cẩm Giang - 123, Khu phố 3, TT. Giồng Trôm,  - BẾN TRE"
+  },
+  {
+    "code": "10946",
+    "label": "47007. Cẩm Giang #2 - Ấp Phước Hậu, xã Phước Mỹ Trung - BẾN TRE"
+  },
+  {
+    "code": "10947",
+    "label": "47008. Huỳnh Thành #4 - Số 360/18B, Khu phố 2, TT. Chợ Lách - BẾN TRE"
+  },
+  {
+    "code": "10948",
+    "label": "47009. Huỳnh Thành #5 - 511, Ấp 6, Xã Tân Thạch, huyện Châu Thành, tỉnh  Bến Tre - BẾN TRE"
+  },
+  {
+    "code": "10949",
+    "label": "47010. Cẩm Giang #3 - Số 6A1, Đại lộ Đồng Khởi, P. Phú Tân - BẾN TRE"
+  },
+  {
+    "code": "10950",
+    "label": "47011. Nguyễn Hoàng - 133/1 Ấp Thạnh Hòa A, TT. Thạnh Phú - BẾN TRE"
+  },
+  {
+    "code": "10951",
+    "label": "47012. Hùng Phát - 23A1, Khu phố 2, TT. Ba Tri, - BẾN TRE"
+  },
+  {
+    "code": "10952",
+    "label": "47013. Fataco #1 - 16-18 Đại lộ Đồng Khởi, p. An Hội - BẾN TRE"
+  },
+  {
+    "code": "10953",
+    "label": "48001. Imex Tra Vinh #1 - 01 Phạm Thái Bường, P. 3, - TRÀ VINH"
+  },
+  {
+    "code": "10954",
+    "label": "48002. Imex Tra Vinh #2 - Khóm 2, TT. Càng Long, - TRÀ VINH"
+  },
+  {
+    "code": "10955",
+    "label": "48005. Imex Trà Vinh #3 - Khóm 1, TT. Trà Cú - TRÀ VINH"
+  },
+  {
+    "code": "10956",
+    "label": "48006. Imex Trà Vinh #4 - Số 88, 90 Đường Ba Tháng Hai, Khóm Minh Thuận B, TT Cầu Ngang - TRÀ VINH"
+  },
+  {
+    "code": "10957",
+    "label": "48009. Bảy Chi - Số 17 Điện Biên Phủ, khóm 4, P. 6 - TRÀ VINH"
+  },
+  {
+    "code": "10958",
+    "label": "48010. Thành Hiếu - 320 Nguyễn Thị Minh Khai, khóm 10, P. 7, - TRÀ VINH"
+  },
+  {
+    "code": "10959",
+    "label": "48011. Thanh Bình An - Khóm 4, TT. Tiểu Cần,  - HỒ CHÍ MINH"
+  },
+  {
+    "code": "10960",
+    "label": "48012. Thiên Phát - Khóm 6, TT. Cầu Kè - VĨNH LONG"
+  },
+  {
+    "code": "10961",
+    "label": "48013. Đức Thịnh - Đường 2/9, Khóm 2, P. 1 - TRÀ VINH"
+  },
+  {
+    "code": "10962",
+    "label": "48014. Trung Tâm #5 - Số 272, đường 30/4, khóm 2, TT. Châu Thành - TRÀ VINH"
+  },
+  {
+    "code": "10963",
+    "label": "48015. Bảy Chi #2 - Đường Võ Nguyên Giáp, Khóm 6, P. 8 - TRÀ VINH"
+  },
+  {
+    "code": "10964",
+    "label": "48016. Trung Tâm #6 - 181, đường 3/2, TT. Trà Cú - LONG AN"
+  },
+  {
+    "code": "10965",
+    "label": "49003. Kim Châu #1 - 139A Tôn Đức Thắng, P. Long Thạnh - AN GIANG"
+  },
+  {
+    "code": "10966",
+    "label": "49005. Nam Thành #1 - Số 6 Trần Hưng Đạo, P. Mỹ Long, - AN GIANG"
+  },
+  {
+    "code": "10967",
+    "label": "49006. Nam Thành #2 - 42/8 Trần Hưng Đạo, P. Mỹ Thới,  - AN GIANG"
+  },
+  {
+    "code": "10968",
+    "label": "49007. Kim Châu #2 - Nguyễn Hữu Cảnh - AN GIANG"
+  },
+  {
+    "code": "10969",
+    "label": "49008. Anh Thư - Tổ 10, ấp thượng 2, TT. Phú Mỹ - AN GIANG"
+  },
+  {
+    "code": "10970",
+    "label": "49009. Quốc Thái - 61A - Trần Hưng Đạo, TT. Tri Tôn - AN GIANG"
+  },
+  {
+    "code": "10971",
+    "label": "49010. Trung Trang - 613A/31 Trần Hưng Đạo, P. Bình Khánh,  - AN GIANG"
+  },
+  {
+    "code": "10972",
+    "label": "49011. Phúc Lộc - Số 308 Lê Lợi, P. Châu Phú B - AN GIANG"
+  },
+  {
+    "code": "10973",
+    "label": "49012. Nam Thành #3 - 487 QL.91, Ấp Vĩnh Lộc, TT Cái Dầu,  - AN GIANG"
+  },
+  {
+    "code": "10974",
+    "label": "49013. Nam Thành #4 - Số 311, 313, 315, 317 Ấp Bắc Sơn, TT Núi Sập - CẦN THƠ"
+  },
+  {
+    "code": "10975",
+    "label": "49014. Kim Châu #3 - 4364, đường Bạch Đằng, ấp An Thịnh, TT. An Phú - AN GIANG"
+  },
+  {
+    "code": "10976",
+    "label": "49015. Quốc Thái #2 - Khu nhà 3 căn, Khóm Thới Hòa, P. Nhà Bàng - AN GIANG"
+  },
+  {
+    "code": "10977",
+    "label": "49016. Kim Châu #4 - Số 183A, tỉnh lộ 942, ấp Thị 2, TT. Mỹ Luông - AN GIANG"
+  },
+  {
+    "code": "10978",
+    "label": "49017. Phúc Lộc #2 - 86-88, Ấp Phú Xương, TT. Chợ Vàm - AN GIANG"
+  },
+  {
+    "code": "10979",
+    "label": "49018. Angimex #1 - 02-04-06-08 Ngô Gia Tự, P. Mỹ Long - AN GIANG"
+  },
+  {
+    "code": "10980",
+    "label": "49019. Angimex #2 - 15 Nguyễn Văn Thoại, P. Châu Phú B - AN GIANG"
+  },
+  {
+    "code": "10981",
+    "label": "49020. Angimex #3 - 15/6A Trần Hưng Đạo, P.Mỹ Quý, - AN GIANG"
+  },
+  {
+    "code": "10982",
+    "label": "49021. Kim Châu #5 - QL 91, Ấp Long Hòa 1, TT An Châu - AN GIANG"
+  },
+  {
+    "code": "10983",
+    "label": "50001. Hồng Đức #1 - 88, 90, 90A Hùng Vương, P. Thới Bình, - CẦN THƠ"
+  },
+  {
+    "code": "10984",
+    "label": "50002. Á Châu #1 - 96-98-100 Nguyễn An Ninh, - HẬU GIANG"
+  },
+  {
+    "code": "10985",
+    "label": "50003. Á Châu #2 - 19A Đường 3/2, Khu vực 3, P.5 - HẬU GIANG"
+  },
+  {
+    "code": "10986",
+    "label": "50004. Hồng Đức #2 - 476 KV Phụng Thạnh 1, P. Thốt Nốt - CẦN THƠ"
+  },
+  {
+    "code": "10987",
+    "label": "50005. Hồng Đức #3 - 135 CMT8, P.An Thới - CẦN THƠ"
+  },
+  {
+    "code": "10988",
+    "label": "50006. Hóa Trading - 29A Đường 3/2, P. Hưng Lợi - CÀ MAU"
+  },
+  {
+    "code": "10989",
+    "label": "50008. Hồng Đức #4 - Số 969/6 đường 26/3, khu vực 4, P. Châu Văn Liêm,  - CÀ MAU"
+  },
+  {
+    "code": "10990",
+    "label": "50009. Hồng Đức #5 - Số 34, QL 61, , TT. Cái Tắc - KIÊN GIANG"
+  },
+  {
+    "code": "10991",
+    "label": "50011. Hóa Trading #2 - 179 Ấp Thị Tứ, TT. Phong Điền - HẬU GIANG"
+  },
+  {
+    "code": "10992",
+    "label": "50012. Hồng Đức #6 - Số 10-10E Nguyễn Trãi, P. Cái Khế - SÓC TRĂNG"
+  },
+  {
+    "code": "10993",
+    "label": "50013. Hồng Đức #7 - Khu dân cư TT Thới Lai, Ấp Thới Thuận A, TT. Thới Lai - VĨNH LONG"
+  },
+  {
+    "code": "10994",
+    "label": "50016. Hồng Đức #8 - 3009 Hùng Vương, Khu vực 3, P. Ngã Bảy - HẬU GIANG"
+  },
+  {
+    "code": "10995",
+    "label": "50017. Đông Huệ - số 144, Đường 30 tháng 4,  Khu vực 5, P. Thuận An - HẬU GIANG"
+  },
+  {
+    "code": "10996",
+    "label": "50019. Hồng Đức #9 - Đường Hà Huy Giáp, Ấp Thới Thuận, TT. Cờ Đỏ - CẦN THƠ"
+  },
+  {
+    "code": "10997",
+    "label": "50021. Hồng Đức #12 - 507 Trần Hưng Đạo, khu vực 3, P. I - CÀ MAU"
+  },
+  {
+    "code": "10998",
+    "label": "50820.  Hồng Đức #11  - 954 Ấp Cầu Xáng, xã Tân Bình - CẦN THƠ"
+  },
+  {
+    "code": "10999",
+    "label": "51001. Thái Hòa #1 - 12 Mạc Cửu, P.Vĩnh Thanh - KIÊN GIANG"
+  },
+  {
+    "code": "11000",
+    "label": "51002. Thái Hòa #2 - 02-04-06 QL80, KP Lò Bom, TT. Kiên Lương - KIÊN GIANG"
+  },
+  {
+    "code": "11001",
+    "label": "51004. Kim Điệp #1 - 65-66-68-69-70-71-72 Lạc Hồng, P. Vĩnh Lạc - KIÊN GIANG"
+  },
+  {
+    "code": "11002",
+    "label": "51005. Kim Điệp # 2 - Tổ 4, KP Nội Ô, TT. Giống Riềng - KIÊN GIANG"
+  },
+  {
+    "code": "11003",
+    "label": "51006. Kim Điệp # 3 - Tổ 7 - Khu Phố 3 - TT. An Biên - KIÊN GIANG"
+  },
+  {
+    "code": "11004",
+    "label": "51007. Kim Điệp #4 - Tổ 10, KP. Tri Tôn - TT. Hòn Đất - KIÊN GIANG"
+  },
+  {
+    "code": "11005",
+    "label": "51008. Minh Giang - Số 6-8 khu phố A, TT. tân hiệp - KIÊN GIANG"
+  },
+  {
+    "code": "11006",
+    "label": "51009. Kim Điệp #5 - Số 19 Nguyễn Văn Tiền, KP. Phước Trung I , TT. Gò Quao - KIÊN GIANG"
+  },
+  {
+    "code": "11007",
+    "label": "51010. Thành Phát - 786 KP. Minh Long, TT. Minh Lương - KIÊN GIANG"
+  },
+  {
+    "code": "11008",
+    "label": "51013. Nam Bình #3 - 9343 KP. Vĩnh Phước 2, TT. Vĩnh Thuận - KIÊN GIANG"
+  },
+  {
+    "code": "11009",
+    "label": "51014. Thành Phát #2 - Lô 5 - Căn 1,2,3 TTTM Rạch Sỏi, P. Rạch Sỏi - KIÊN GIANG"
+  },
+  {
+    "code": "11010",
+    "label": "51815.  Kim Điệp #6 - 75 Nguyễn Văn Cừ, KP3, An Thới - KIÊN GIANG"
+  },
+  {
+    "code": "11011",
+    "label": "51816.  Kim Điệp #7 - 86 Khu Phố 2, TT. Thứ 11 - ĐỒNG NAI"
+  },
+  {
+    "code": "11012",
+    "label": "51817.  Trực - Số 3 Nguyễn Phúc Chu, P. Pháo Đài - KIÊN GIANG"
+  },
+  {
+    "code": "11013",
+    "label": "52003. Hodaco #3 - 74 Hùng Vương, P. 6, - SÓC TRĂNG"
+  },
+  {
+    "code": "11014",
+    "label": "52004. Vĩnh Hòa #1 - Thửa đất số 345, tờ bản đồ số 05, Ấp 2, TT. Phú Lộc - SÓC TRĂNG"
+  },
+  {
+    "code": "11015",
+    "label": "52005. Vĩnh Hòa #2 - Số 18, đường Ung Công Uẩn, Ấp An Thành, TT Kế Sách - HẬU GIANG"
+  },
+  {
+    "code": "11016",
+    "label": "52006. Huỳnh Bạch Tùng - Số 9 Lê Lợi, thị trấn Mỹ Xuyên - SÓC TRĂNG"
+  },
+  {
+    "code": "11017",
+    "label": "52009. Hòa Minh - Số 200, Đường 30/4, Khóm 2, P. 1 - SÓC TRĂNG"
+  },
+  {
+    "code": "11018",
+    "label": "52010. Hồng Đức #10 - Ấp Trà Quýt A, TT. Châu Thành - SÓC TRĂNG"
+  },
+  {
+    "code": "11019",
+    "label": "52011. Thanh Vân - Thửa Đất Số 115, Tờ Bản Đồ Số 16, Ấp Đầu Giồng, TT. Trần Đề - SÓC TRĂNG"
+  },
+  {
+    "code": "11020",
+    "label": "52013. Thành Tín - 147-149-151 Trần Hưng Đạo, P. 3 - SÓC TRĂNG"
+  },
+  {
+    "code": "11021",
+    "label": "52014. Kỳ Hưng - 632 Võ Văn Kiệt, P. 2 - SÓC TRĂNG"
+  },
+  {
+    "code": "11022",
+    "label": "52812.  Đông Huệ #2 - Số 100, Đường Nguyễn Huệ, Khóm 1, P. 1 - SÓC TRĂNG"
+  },
+  {
+    "code": "11023",
+    "label": "53001. Nam Sương #1 - 3A HÙNG VƯƠNG, P. 7 - CÀ MAU"
+  },
+  {
+    "code": "11024",
+    "label": "53002. Nam Sương #2 - 15C-17C Trung Tâm Thương Mại Bạc Liêu, phường 3, - BẠC LIÊU"
+  },
+  {
+    "code": "11025",
+    "label": "53003. Nam Sương #3 - Số 131-133-135-137, Phan Ngọc Hiển, P.5 - CÀ MAU"
+  },
+  {
+    "code": "11026",
+    "label": "53004. Trung Nghĩa #1 - Số 162-165, Nguyễn Tất Thành, P. 8 - CÀ MAU"
+  },
+  {
+    "code": "11027",
+    "label": "53005. Nam Sương #4 - 142A, QL1A, P. Hộ Phòng, - BẠC LIÊU"
+  },
+  {
+    "code": "11028",
+    "label": "53006. Nam Sương #5 - 366 Trần Phú, P. 7 - BẠC LIÊU"
+  },
+  {
+    "code": "11029",
+    "label": "53008. Đạt Ngọc #1 - 221 Đường Hai Bà Trưng - P. 3 - BẠC LIÊU"
+  },
+  {
+    "code": "11030",
+    "label": "53010. Nam Bình #1 - số 19, đường 19/5 - khóm 4, TT. Đầm Dơi - CÀ MAU"
+  },
+  {
+    "code": "11031",
+    "label": "53011. Đạt Ngọc #2 - Khóm 2, P. 1 - BẠC LIÊU"
+  },
+  {
+    "code": "11032",
+    "label": "53012. Thành Mỹ #1 - Số 285A - 287A - 289A Ấp Long Thành, TT. Phước Long - BẠC LIÊU"
+  },
+  {
+    "code": "11033",
+    "label": "53013. Thành Nên - 170-171A-171B ấp 2, xã Tắc Vân - CÀ MAU"
+  },
+  {
+    "code": "11034",
+    "label": "53016. Nam Bình #2 - Khóm 8,tt thới bình - CÀ MAU"
+  },
+  {
+    "code": "11035",
+    "label": "53017. Nam Bình #4 - Khu Vực 1,Khóm 2, TT Năm Căn - CÀ MAU"
+  },
+  {
+    "code": "11036",
+    "label": "53018. Nam Bình #5 - Khóm 7, TT Trần Văn Thời - CÀ MAU"
+  },
+  {
+    "code": "11037",
+    "label": "53019. Nam Bình #6 - QL1A, KHÓM 2, TT CÁI NƯỚC - CÀ MAU"
+  },
+  {
+    "code": "11038",
+    "label": "53020. Văn Tươi - 103-105 Võ Thị Sáu, Khóm 2, P. 8 - BẠC LIÊU"
+  },
+  {
+    "code": "11039",
+    "label": "53021. Thành Mỹ #2 - Ấp 3, Đường Phan Ngọc Hiển, TT. Gành Hào - BẠC LIÊU"
+  },
+  {
+    "code": "11040",
+    "label": "53022. Nam Bình #7 - Số 320 Ngô Quyền, P. 1 - CÀ MAU"
+  },
+  {
+    "code": "11041",
+    "label": "53023. Tân Ngọc Anh - Số 29C, đường Lý Thường Kiệt, Khóm 4, P. 6 - CÀ MAU"
+  },
+  {
+    "code": "11042",
+    "label": "53824.  Thành Mỹ #3 - Ấp Nội Ô, TT. Ngan Dừa - BẠC LIÊU"
+  },
+  {
+    "code": "11043",
+    "label": "53825.  Tân Ngọc Anh #2  - Khóm 3, TT. U Minh - CÀ MAU"
+  },
+  {
+    "code": "11044",
+    "label": "53016. Nam Bình #2 - Khóm 8,tt thới bình"
+  },
+  {
+    "code": "11045",
+    "label": "53017. Nam Bình #4 - Khu Vực 1,Khóm 2, TT Năm Căn"
+  },
+  {
+    "code": "11046",
+    "label": "53018. Nam Bình #5 - Khóm 7, TT Trần Văn Thời"
+  },
+  {
+    "code": "11047",
+    "label": "53019. Nam Bình #6 - QL1A, KHÓM 2, TT CÁI NƯỚC"
+  },
+  {
+    "code": "11048",
+    "label": "53020. Văn Tươi - 103-105 Võ Thị Sáu, Khóm 2, P. 8"
+  },
+  {
+    "code": "11049",
+    "label": "53021. Thành Mỹ #2 - Ấp 3, Đường Phan Ngọc Hiển, TT. Gành Hào"
+  },
+  {
+    "code": "11050",
+    "label": "53022. Nam Bình #7 - Số 320 Ngô Quyền, P. 1"
+  },
+  {
+    "code": "11051",
+    "label": "53023. Tân Ngọc Anh - Số 29C, đường Lý Thường Kiệt, Khóm 4, P. 6"
+  },
+  {
+    "code": "11052",
+    "label": "53824.  Thành Mỹ #3 - Ấp Nội Ô, TT. Ngan Dừa"
+  },
+  {
+    "code": "11053",
+    "label": "53825.  Tân Ngọc Anh #2  - Khóm 3, TT. U Minh"
+  },
+  {
+    "code": "12132",
+    "label": "14019. Hoàng Hợp - 119 Lạc Long Quân, P. Nghĩa Đô - HÀ NỘI"
+  },
+  {
+    "code": "12133",
+    "label": "38054. Song Hùng #3 - Số 68, Quốc lộ 13, Khu phố Bàu Lòng, TT. Lai Uyên - BÌNH DƯƠNG"
+  },
+  {
+    "code": "12134",
+    "label": "42092. Tâm Phong #4 - 50-52-54-56 Nguyễn Tất Thành; P. 13 - HỒ CHÍ MINH"
+  },
+  {
+    "code": "12135",
+    "label": "45014. Nam Anh #7 - Quốc Lộ 1A, ấp An Thái, xã An Cư - TIỀN GIANG"
+  },
+  {
+    "code": "12136",
+    "label": "38055. Hằng Anh #3 - 68 Đường ĐT 741, Khu phố Phú Nghị, P. Hòa Lợi - Bình Dương"
+  },
+  {
+    "code": "12137",
+    "label": "38058. Tân Kiều #5 - Số 53 đường DT741, Khu phố Cổng Xanh, TT. Tân Bình - Bình Dương"
+  },
+  {
+    "code": "12138",
+    "label": "27021. Quốc Tiến #4 - 188-190-192 Nguyễn Lương Bằng, P. Hòa Khánh Bắc - Đà Nẵng"
+  },
+  {
+    "code": "12139",
+    "label": "42093. Quế Khoa #7 - 519 Kha Vạn Cân, P. Linh Đông - Hồ Chí Minh"
+  },
+  {
+    "code": "12140",
+    "label": "44020. Văn Hải #7 - Số 454, Nguyễn Sinh Sắc, khóm 5, P. 1 - Đồng Tháp"
+  },
+  {
+    "code": "12141",
+    "label": "44021. Văn Hải #8 - Số 507, Quốc lộ 80, khóm 1, TT Lai Vung - Đồng Tháp"
+  },
+  {
+    "code": "12142",
+    "label": "38056. Quế Khoa #5 - 217B Đường Yersin, P. Phú Cường - Bình Dương"
+  },
+  {
+    "code": "12143",
+    "label": "38059. Tân Kiều #6 - Số 168, đường ĐT 747, Khu phố 2, P. Hội Nghĩa - Bình Dương"
+  },
+  {
+    "code": "12144",
+    "label": "38057. Quế Khoa #6 - Số 54 Đại lộ Bình Dương, khu phố 4, P. Mỹ Phước - Bình Dương"
+  },
+  {
+    "code": "12186",
+    "label": "18027 - Vũ Minh #5 - Nam Định"
+  },
+  {
+    "code": "12187",
+    "label": "32009 - Cúc Vinh #1 - 201B-201D Lê Lợi, P5 - AN GIANG"
+  },
+  {
+    "code": "12188",
+    "label": "32010 - Cúc Vinh #2 - 324-326-328 QL. 1A,TT. Chí Thạnh, - PHÚ YÊN"
+  },
+  {
+    "code": "12189",
+    "label": "32011 - Dũng Tiến - 225-227-229 Trần Hưng Đạo, P. 4, - PHÚ YÊN"
+  },
+  {
+    "code": "12190",
+    "label": "32012 - Dũng Tiến #2 - Khu Phố 2 - Hòa Vinh - BÀ RỊA - VŨNG TÀU"
+  },
+  {
+    "code": "12191",
+    "label": "32013 - Dũng Tiến #3 - Số 29 - 31 - 33 Nguyễn Huệ, P. Xuân Phú - VĨNH LONG"
+  },
+  {
+    "code": "12192",
+    "label": "32014 - Dũng Tiến #4 - TT. Phú Thứ - SƠN LA"
+  },
+  {
+    "code": "12193",
+    "label": "32015 -  Dũng Tiến #5 - Số 1 Lê Lợi, TT Hai Riêng - PHÚ YÊN"
+  },
+  {
+    "code": "12194",
+    "label": "33040 - Ngọc Phụng - 573-575 Giải Phóng, TT. Ea Drăng - ĐẮK LẮK"
+  },
+  {
+    "code": "12195",
+    "label": "33041 - Trung Thạch #1 - TDP 3B, TT. Eakar - ĐẮK LẮK"
+  },
+  {
+    "code": "12196",
+    "label": "33042 - Trung Thạch #2 - TDP. 5, TT. Krông Năng - ĐẮK LẮK"
+  },
+  {
+    "code": "12197",
+    "label": "33043 - Trung Thạch#3 - TDP. 5, TT. Krông Kmar - ĐẮK LẮK"
+  },
+  {
+    "code": "12198",
+    "label": "33044 - Trung Thạch#5 - Thôn 8, TT. M - Đrắk - ĐẮK LẮK"
+  },
+  {
+    "code": "12199",
+    "label": "33045 - Trung Thạch#6 - Số 130 Hùng Vương, TT. Quảng Phú - ĐẮK LẮK"
+  },
+  {
+    "code": "12200",
+    "label": "33048 - Tân Văn Sỹ #1 - Số 74 Nguyễn Tất Thành, P. Tự An - ĐẮK LẮK"
+  },
+  {
+    "code": "12201",
+    "label": "33049 - Tân Văn Sỹ #2 - Số 469 Hùng Vương, P. An Lạc - ĐẮK LẮK"
+  },
+  {
+    "code": "12202",
+    "label": "33050 - Tân Văn Sỹ #3 - Khối 6, TT. Phước An - ĐẮK LẮK"
+  },
+  {
+    "code": "12203",
+    "label": "33046 -  Trung Thạch #7  - Thôn 15, xã Tân Hòa - KHÁNH HÒA"
+  },
+  {
+    "code": "12204",
+    "label": "33047 -  Trung Thạch #8  - Số 245 Nguyễn Tất Thành, TT. Liên Sơn - ĐẮK NÔNG"
+  },
+  {
+    "code": "12205",
+    "label": "33051 -  Tân Văn Sỹ #4 - Số 62 Hùng Vương, TT. Ea Súp - ĐẮK LẮK"
+  },
+  {
+    "code": "12206",
+    "label": "34022 - Thuận Phát - Đường 23/10, thôn Phú Ân Nam 1, xã Diên An, - KHÁNH HÒA"
+  },
+  {
+    "code": "12207",
+    "label": "34023 - Thuận Phát #2 - Số 4A, Đường 2/4, P. Vĩnh Hải - KHÁNH HÒA"
+  },
+  {
+    "code": "12208",
+    "label": "36016 - Trung Phong - Số 654, TDP. Đồng Tâm, TT. Đinh Văn - KHÁNH HÒA"
+  },
+  {
+    "code": "12209",
+    "label": "42095 - Dũng Tiến #6 - 04 và 18 Cộng Hòa, P. 4 - THỪA THIÊN HUẾ"
+  },
+  {
+    "code": "12210",
+    "label": "42096 - Dũng Tiến #7 - 330 Huỳnh Tấn Phát; P. Tân Thuận Tây - HỒ CHÍ MINH"
+  },
+  {
+    "code": "12211",
+    "label": "42097 - Dũng Tiến #8 - 941 - 943 - 945A TL.10, P. Tân Tạo - HỒ CHÍ MINH"
+  },
+  {
+    "code": "12212",
+    "label": "5007 - THIỆN ANH - Yên Bái"
+  },
+  {
+    "code": "12213",
+    "label": "10022 - KƯỜNG NGÂN 8 - Hà Nội"
+  },
+  {
+    "code": "12214",
+    "label": "17022 - HÒA AN #4 - Thái Bình"
+  },
+  {
+    "code": "12215",
+    "label": "26011 - LỘC THỊNH #5 - Thừa Thiên Huế"
+  },
+  {
+    "code": "12216",
+    "label": "37010 - THÀNH TRUNG - Bình Thuận"
+  },
+  {
+    "code": "12217",
+    "label": "39031 - VĂN HẢI #9 - Đồng Nai"
+  },
+  {
+    "code": "12218",
+    "label": "42090 - TOÀN TRUNG #5 - Hồ Chí Minh"
+  },
+  {
+    "code": "12219",
+    "label": "42091 - TOÀN TRUNG #6 - Hồ Chí Minh"
+  },
+  {
+    "code": "12220",
+    "label": "42094 - LAI HƯƠNG #4 - Hồ Chí Minh"
+  },
+  {
+    "code": "12221",
+    "label": "53024 - NAM BÌNH #8 - Cà Mau"
+  }
+]
