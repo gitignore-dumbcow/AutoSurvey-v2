@@ -20,12 +20,9 @@ answers = {}
 root = tk.Tk()
 root.title("AutoSurvey")
 
-left_frame, right_frame, canvas, progress_var = setup_layout(root, WINDOW_WIDTH, WINDOW_HEIGHT)
+left_frame, right_frame, canvas = setup_layout(root, WINDOW_WIDTH, WINDOW_HEIGHT)
 
-render.generate_questions(left_frame, form, canvas=canvas, scrollable_frame=left_frame)
-render.set_progress_var(progress_var)
-render.update("s0")
-
+render.generate_questions(left_frame, form, 620, canvas=canvas, scrollable_frame=left_frame)
 
 root.bind("<Return>", handle_enter)
 root.bind("<Key>", handle_keypress)

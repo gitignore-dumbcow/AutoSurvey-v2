@@ -1,44 +1,8 @@
 {
-  "answers": {
-    "s0": {
-      "information": "132"
-    },
-    "s1": {
-      "database": "123"
-    },
-    "s2": "1",
-    "s3": "2",
-    "s4": "1",
-    "s5": "1",
-    "s6": "1",
-    "s7": "1",
-    "s8": "1",
-    "q1": "1",
-    "q2": {
-      "satisfied": "1",
-      "unsatisfied": "1"
-    },
-    "q3": "1",
-    "q4": "1",
-    "q5": "1",
-    "q6": "1",
-    "q7": "1",
-    "q8": "9",
-    "q9": "1",
-    "q10": "9",
-    "q12": "1",
-    "q13": "1",
-    "q14": "1",
-    "i1": {
-      "name": "Ngu",
-      "phone": "Vcl"
-    },
-    "s2.1": {
-      "name": "Ngu học"
-    }
-  },
+  "answers": {},
   "surveyor_id": "N2204",
   "surveyor_name": "Nguyễn Kiều Anh",
   "survey_month": "T07",
+  "location": "HA NOI",
   "form_link": "https://survey.alchemer.com/s3/8374879/C9954-DCSI-2025-July-2025"
 }

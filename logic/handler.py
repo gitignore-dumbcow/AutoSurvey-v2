@@ -13,6 +13,24 @@ current_id = form["questions"][0]["id"]
 answers = {}
 selected_code = None
 
+def load_cache(clear = False, file=None):    
+    if file == None:
+        CACHE_FILE = "output/cache.json"
+    else:
+        return
+    if os.path.exists(CACHE_FILE):
+        if(clear):
+            with open(CACHE_FILE, "w", encoding="utf-8") as f:
+                json.dump("", f, ensure_ascii=False, indent=2)
+        else:
+            with open(CACHE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+
+load_cache(True)
+
+def open_file():
+    update("s0")
+
 def handle_enter(event=None):
     global current_id, selected_code
 
@@ -146,14 +164,16 @@ def load_settings_from_file():
             surveyor_name = settings.get("surveyor_name", "")
             survey_month = settings.get("survey_month", "")
             form_link = settings.get("form_link", "")
+            location = settings.get("location")
 
-            return surveyor_id, surveyor_name, survey_month, form_link
+            return surveyor_id, surveyor_name, survey_month, form_link, location
 
-def save_settings_to_file(surveyor_id, surveyor_name, survey_month, form_link):
+def save_settings_to_file(surveyor_id, surveyor_name, survey_month, form_link, location):
     settings = {
         "surveyor_id": surveyor_id,
         "surveyor_name": surveyor_name,
         "survey_month": survey_month,
+        "location": location,
         "form_link": form_link
     }
     with open(SETTINGS_FILE, "w", encoding="utf-8") as f:
@@ -162,7 +182,7 @@ def save_settings_to_file(surveyor_id, surveyor_name, survey_month, form_link):
 OUTPUT_DIR = "output"
 
 def save_answer():
-    surveyor_id, surveyor_name, survey_month, form_link = load_settings_from_file() or ("", "", "", "")
+    surveyor_id, surveyor_name, survey_month, form_link, location = load_settings_from_file() or ("", "", "", "")
 
     filename = f"{"Test"}.json"
     filepath = os.path.join(OUTPUT_DIR, filename)
@@ -173,13 +193,16 @@ def save_answer():
     "surveyor_id": surveyor_id,
     "surveyor_name": surveyor_name,
     "survey_month": survey_month,
+    "location" : location,
     "form_link": form_link
     }
 
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\u0110\u00e3 l\u01b0u v\u00e0o: {OUTPUT_DIR}")
+def new():
+    load_cache(True)
+    update("s0")
 
 def cache_answers():
     """Thu thập câu trả lời hiện tại và lưu vào file cache"""
@@ -207,6 +230,15 @@ def cache_answers():
         case "score":
             if selected_code in question["options"]:
                 answers[current_id] = selected_code
+
+        case "dropdown":
+            selected = widget.get("selected")
+            if selected:
+                value = selected.get().strip()
+                if value:
+                    answers[current_id] = value
+                elif current_id in answers:
+                    del answers[current_id]
 
         case _:
             # Có thể thêm các loại khác nếu cần

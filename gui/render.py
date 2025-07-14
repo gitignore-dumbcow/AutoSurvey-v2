@@ -1,9 +1,13 @@
 import tkinter as tk
 import os
 import json
+from data.lists.region_list import REGION_LIST
+from gui.modules.AutocompleteEntry import AutocompleteEntry as AE
+from tkinter import ttk
 
-global question_widgets
+global question_widgets, final_question
 question_widgets = {}
+final_question = 1
 
 highlightbackground = "#c8c8c8"
 highlightcolor = "#393939"
@@ -16,8 +20,10 @@ def select_code(qid, code):
     if 0 <= qid < len(question_widgets):
         question_widgets[qid]["var"].set(code)
 
-def generate_questions(question_frame, form, wrap_length=500, canvas=None, scrollable_frame=None):
-    
+def generate_questions(question_frame, form, wrap_length=600, canvas=None, scrollable_frame=None):
+    global final_question
+    question_counter = 0  # Biến đếm số thứ tự câu hỏi
+
     generate_questions.canvas = canvas
     generate_questions.scrollable_frame = scrollable_frame
 
@@ -31,6 +37,8 @@ def generate_questions(question_frame, form, wrap_length=500, canvas=None, scrol
         qid = current_question["id"]
         qtype = current_question["type"]
 
+        question_counter += 1
+        widget_info["index"] = question_counter
         # Main frame for this question
         widget_frame = tk.Frame(
             question_frame,
@@ -41,6 +49,18 @@ def generate_questions(question_frame, form, wrap_length=500, canvas=None, scrol
             bg=bg_active,
         )
         widget_frame.pack(fill="x", pady=5)
+
+        # Số thứ tự câu hỏi
+        number_label = tk.Label(
+            widget_frame,
+            text=f"{question_counter}",
+            font=("Arial", 9, "italic"),
+            fg="gray",
+            bg=widget_frame["bg"],
+            anchor="ne"
+        )
+        number_label.place(relx=1.0, rely=0.0, anchor="ne", x=-2, y=2)
+        widget_items.append(number_label)
 
         if render_labels:
             # Title
@@ -168,6 +188,21 @@ def generate_questions(question_frame, form, wrap_length=500, canvas=None, scrol
                     widget_items.append(lbl_info)
                     widget_info["info_label"] = lbl_info
 
+                # --- PROMPT ---
+                case "complete":
+                    lbl_info = tk.Label(
+                        widget_frame,
+                        text="Bấm [Enter] để lưu file",
+                        font=("Arial",12,"italic"), 
+                        wraplength=wrap_length,
+                        justify="left", state="disabled",
+                        bg=widget_frame["bg"]
+                    )
+                    lbl_info.pack(fill="x", pady=4)
+                    widget_items.append(lbl_info)
+                    widget_info["info_label"] = lbl_info
+                    final_question = question_counter
+
                 # --- SCORE ---
                 case "score":
                     score_frame = tk.Frame(
@@ -200,37 +235,47 @@ def generate_questions(question_frame, form, wrap_length=500, canvas=None, scrol
 
                     widget_info["code_labels"] = code_labels
 
+                # --- DROPDOWN ---
+                case "dropdown":
+                    selected = tk.StringVar()
+                    autoEntry = AE(widget_frame, REGION_LIST, textvariable=selected)
+                    autoEntry.pack(fill="x", pady=(4, 8))
+
+                    widget_info["dropdown"] = autoEntry
+                    widget_info["selected"] = selected
+
         widget_info["widget_items"] = widget_items
         question_widgets[qid] = widget_info
 
-        update("s0")
 
 
-def load_cache(clear = False):    
-    CACHE_FILE = "output/cache.json"
-    
-    if os.path.exists(CACHE_FILE):
-        if(clear):
-            with open(CACHE_FILE, "w", encoding="utf-8") as f:
-                json.dump("", f, ensure_ascii=False, indent=2)
-        else:
-            with open(CACHE_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
 
-load_cache(True)
+global progress_var
+progress_var = None
 
-        
+def set_progress_var(target):
+    global progress_var
+    progress_var=target
+
 def update(id):
+    from logic.handler import load_cache
+    global progress_var
     cache = load_cache()
     scroll_to_question = True
-
 
     # Update the state of all question widgets based on the current id
     for qid, widget in question_widgets.items():
         active = (qid == id)
         bg_color = bg_active if active else bg_inactive
-        
+
         if active:
+            index = question_widgets[id]["index"]
+            if index > 1 and index < final_question:
+                progress = (index / final_question) * 100
+                progress_var.set(progress)
+            if index == 1:
+                progress_var.set(0)
+            
             widget["frame"].focus_set()
 
         widget["frame"].config(bg=bg_color)
@@ -249,7 +294,9 @@ def update(id):
                             entry.config(state="normal")
                         else:
                             entry.config(state="disabled")
-
+            case "dropdown":
+                if active:
+                    widget["dropdown"].focus_set()
 
             case "number_code":
                 if qid in cache:
